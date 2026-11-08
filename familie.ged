@@ -1,0 +1,3789 @@
+0 HEAD
+1 SOUR Gramps
+2 VERS 6.0.8
+2 NAME Gramps
+1 DATE 8 NOV 2026
+2 TIME 17:26:47
+1 SUBM @SUBM@
+1 FILE /home/danny/Documents/gramps/familie.ged
+1 COPR Copyright (c) 2026 .
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 CHAR UTF-8
+1 LANG English
+0 @SUBM@ SUBM
+1 NAME
+0 @1774/11/23@ INDI
+1 NAME Livine Francoise /Van Durme/
+2 TYPE birth
+2 GIVN Livine Francoise
+2 SURN Van Durme
+1 SEX F
+1 BIRT
+2 DATE 23 NOV 1774
+1 DEAT
+2 DATE 21 FEB 1822
+1 FAMC @F0036@
+2 PEDI birth
+1 FAMS @F0030@
+1 CHAN
+2 DATE 8 FEB 2020
+3 TIME 21:19:41
+0 @1775/08/14@ INDI
+1 NAME Charles Livin /De Vos/
+2 TYPE birth
+2 GIVN Charles Livin
+2 SURN De Vos
+1 SEX M
+1 BIRT
+2 DATE 14 AUG 1775
+2 PLAC Evergem
+1 DEAT
+2 DATE 17 OCT 1819
+2 PLAC Evergem
+1 FAMC @F0031@
+2 PEDI birth
+1 FAMS @F0022@
+1 CHAN
+2 DATE 7 FEB 2020
+3 TIME 23:03:06
+0 @1776/06/05@ INDI
+1 NAME Livine Therese /Teirlinck/
+2 TYPE birth
+2 GIVN Livine Therese
+2 SURN Teirlinck
+1 SEX F
+1 BIRT
+2 DATE 5 JUN 1776
+2 PLAC Evergem
+1 DEAT
+2 DATE 28 JAN 1825
+2 PLAC Evergem
+1 FAMC @F0032@
+2 PEDI birth
+1 FAMS @F0022@
+1 FAMS @F0046@
+1 CHAN
+2 DATE 16 FEB 2020
+3 TIME 22:25:33
+0 @1776/09/25@ INDI
+1 NAME Judoca Pieternelle /Mestdag/
+2 TYPE birth
+2 GIVN Judoca Pieternelle
+2 SURN Mestdag
+1 SEX F
+1 BIRT
+2 DATE 25 SEP 1776
+2 PLAC Sleidinge
+1 DEAT
+2 DATE 31 JAN 1819
+2 PLAC Sleidinge
+1 FAMC @F0011@
+2 PEDI birth
+1 FAMS @F0021@
+1 CHAN
+2 DATE 10 FEB 2020
+3 TIME 22:05:54
+0 @1779/03/09@ INDI
+1 NAME Livinus Bernardus /Buckerier/
+2 TYPE birth
+2 GIVN Livinus Bernardus
+2 SURN Buckerier
+1 SEX M
+1 BIRT
+2 DATE 9 MAR 1779
+2 PLAC Sleidinge
+1 DEAT
+2 DATE 24 JAN 1819
+2 PLAC Sleidinge
+1 FAMC @F0033@
+2 PEDI birth
+1 FAMS @F0021@
+1 CHAN
+2 DATE 10 FEB 2020
+3 TIME 22:07:39
+0 @1780/06/18@ INDI
+1 NAME Christophe /Goethals/
+2 TYPE birth
+2 GIVN Christophe
+2 SURN Goethals
+1 SEX M
+1 BIRT
+2 DATE 18 JUN 1780
+2 PLAC Evergem
+1 FAMC @F0035@
+2 PEDI birth
+1 FAMS @F0030@
+1 CHAN
+2 DATE 8 FEB 2020
+3 TIME 21:13:28
+0 @1787/07/30@ INDI
+1 NAME Franciscus /Van Den Saffele/
+2 TYPE birth
+2 GIVN Franciscus
+2 SURN Van Den Saffele
+1 SEX M
+1 BIRT
+2 DATE 30 JUL 1787
+2 PLAC Evergem
+1 DEAT
+2 DATE 16 JUL 1862
+2 PLAC Evergem
+1 FAMC @F0034@
+2 PEDI birth
+1 FAMS @F0025@
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:32:17
+0 @1787/08/15@ INDI
+1 NAME Maria Theresia /Goethals/
+2 TYPE birth
+2 GIVN Maria Theresia
+2 SURN Goethals
+1 SEX F
+1 BIRT
+2 DATE 15 AUG 1787
+2 PLAC Wondelgem
+1 FAMC @F0037@
+2 PEDI birth
+1 FAMS @F0025@
+1 CHAN
+2 DATE 11 FEB 2020
+3 TIME 22:28:19
+0 @1798/04/19@ INDI
+1 NAME Theresia Christina /Neyt/
+2 TYPE birth
+2 GIVN Theresia Christina
+2 SURN Neyt
+1 SEX F
+1 BIRT
+2 DATE 19 APR 1798
+2 PLAC Gent
+1 DEAT
+2 DATE 19 JAN 1849
+2 PLAC Evergem
+1 FAMC @F0038@
+2 PEDI birth
+1 FAMS @F0024@
+1 CHAN
+2 DATE 11 FEB 2020
+3 TIME 22:34:52
+0 @1802/05/09@ INDI
+1 NAME Joannes Franciscus /Van Den Saffele/
+2 TYPE birth
+2 GIVN Joannes Franciscus
+2 SURN Van Den Saffele
+1 SEX M
+1 BIRT
+2 DATE 9 MAY 1802
+2 PLAC Evergem
+1 DEAT
+2 DATE 19 AUG 1868
+2 PLAC Evergem
+1 FAMC @F0034@
+2 PEDI birth
+1 FAMS @F0024@
+1 CHAN
+2 DATE 17 FEB 2020
+3 TIME 22:10:27
+0 @1804/03/15@ INDI
+1 NAME Pieter Joannes /Goethals/
+2 TYPE birth
+2 GIVN Pieter Joannes
+2 SURN Goethals
+1 SEX M
+1 BIRT
+2 DATE 15 MAR 1804
+2 PLAC Evergem
+1 DEAT
+2 DATE 3 FEB 1883
+2 PLAC Evergem
+1 FAMC @F0030@
+2 PEDI birth
+1 FAMS @F0015@
+1 CHAN
+2 DATE 8 FEB 2020
+3 TIME 20:21:07
+0 @1808/09/13@ INDI
+1 NAME Coleta /De Somviele/
+2 TYPE birth
+2 GIVN Coleta
+2 SURN De Somviele
+1 SEX F
+1 BIRT
+2 DATE 13 SEP 1808
+2 PLAC Sleidinge
+1 DEAT
+2 DATE 17 AUG 1889
+2 PLAC Evergem
+1 FAMC @F0029@
+2 PEDI birth
+1 FAMS @F0015@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 22:35:00
+0 @1813/12/01@ INDI
+1 NAME Angelus /De Vos/
+2 TYPE birth
+2 GIVN Angelus
+2 SURN De Vos
+1 SEX M
+1 BIRT
+2 DATE 1 DEC 1813
+2 PLAC Evergem
+1 DEAT
+2 DATE 4 AUG 1890
+2 PLAC Evergem
+1 FAMC @F0022@
+2 PEDI birth
+1 FAMS @F0014@
+1 CHAN
+2 DATE 7 FEB 2020
+3 TIME 22:58:55
+0 @1816/11/15@ INDI
+1 NAME Amelia /Buckerier/
+2 TYPE birth
+2 GIVN Amelia
+2 SURN Buckerier
+1 SEX F
+1 BIRT
+2 DATE 15 NOV 1816
+2 PLAC Sleidinge
+1 DEAT
+2 DATE 13 JAN 1900
+2 PLAC Gent
+1 FAMC @F0021@
+2 PEDI birth
+1 FAMS @F0014@
+1 CHAN
+2 DATE 10 FEB 2020
+3 TIME 22:04:36
+0 @1828/12/08@ INDI
+1 NAME Leonardus /Van Den Saffele/
+2 TYPE birth
+2 GIVN Leonardus
+2 SURN Van Den Saffele
+1 SEX M
+1 BIRT
+2 DATE 8 DEC 1828
+2 PLAC Evergem
+1 DEAT
+2 DATE 29 SEP 1910
+2 PLAC Evergem
+1 FAMC @F0025@
+2 PEDI birth
+1 FAMS @F0019@
+1 CHAN
+2 DATE 11 FEB 2020
+3 TIME 22:21:48
+0 @1830/04/11@ INDI
+1 NAME Fredericus /Colombeen/
+2 TYPE birth
+2 GIVN Fredericus
+2 SURN Colombeen
+1 SEX M
+1 BIRT
+2 DATE 11 APR 1830
+2 PLAC Evergem
+1 DEAT
+2 DATE 10 OCT 1896
+2 PLAC Evergem
+1 FAMC @F0023@
+2 PEDI birth
+1 FAMS @F0017@
+1 CHAN
+2 DATE 28 JAN 2020
+3 TIME 20:30:27
+0 @1833/07/11@ INDI
+1 NAME Amelia /Van Den Saffele/
+2 TYPE birth
+2 GIVN Amelia
+2 SURN Van Den Saffele
+1 SEX F
+1 BIRT
+2 DATE 11 JUL 1831
+2 PLAC Evergem
+1 DEAT
+2 DATE 10 MAR 1873
+2 PLAC Evergem
+1 FAMC @F0024@
+2 PEDI birth
+1 FAMS @F0017@
+1 CHAN
+2 DATE 11 FEB 2020
+3 TIME 22:29:37
+0 @1834/03/27@ INDI
+1 NAME Maria Theresia /Haelman/
+2 TYPE birth
+2 GIVN Maria Theresia
+2 SURN Haelman
+1 SEX F
+1 BIRT
+2 DATE 27 MAR 1834
+2 PLAC Zomergem
+1 DEAT
+2 DATE 1 OCT 1918
+2 PLAC Evergem
+1 FAMC @F0026@
+2 PEDI birth
+1 FAMS @F0019@
+1 CHAN
+2 DATE 31 JAN 2020
+3 TIME 22:24:52
+0 @1842/09/16@ INDI
+1 NAME Petrus /De Vos/
+2 TYPE birth
+2 GIVN Petrus
+2 SURN De Vos
+1 SEX M
+1 BIRT
+2 DATE 16 SEP 1842
+2 PLAC Evergem
+1 DEAT
+2 DATE 30 MAR 1933
+2 PLAC Evergem
+1 FAMC @F0014@
+2 PEDI birth
+1 FAMS @F0013@
+1 CHAN
+2 DATE 25 JAN 2020
+3 TIME 22:33:53
+0 @1849/04/15@ INDI
+1 NAME Clementia /Goethals/
+2 TYPE birth
+2 GIVN Clementia
+2 SURN Goethals
+1 SEX F
+1 BIRT
+2 DATE 15 APR 1849
+2 PLAC Evergem
+1 DEAT
+2 DATE 9 DEC 1927
+2 PLAC Evergem
+1 FAMC @F0015@
+2 PEDI birth
+1 FAMS @F0013@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @1855/01/30@ INDI
+1 NAME Desiderius /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Desiderius
+2 SURN De Vleeschauwer
+1 SEX M
+1 BIRT
+2 DATE 30 JAN 1855
+2 PLAC Ophasselt
+1 DEAT
+2 DATE 19 MAR 1914
+1 FAMC @F0039@
+2 PEDI birth
+1 FAMS @F0006@
+1 CHAN
+2 DATE 12 FEB 2020
+3 TIME 22:19:13
+0 @1858/11/17@ INDI
+1 NAME Maria Hortensia /Lauwaert/
+2 TYPE birth
+2 GIVN Maria Hortensia
+2 SURN Lauwaert
+1 SEX F
+1 BIRT
+2 DATE 17 NOV 1858
+2 PLAC Outer
+1 FAMC @F0040@
+2 PEDI birth
+1 FAMS @F0006@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 15:44:51
+0 @1862/09/06@ INDI
+1 NAME Maria Theresia /Van Den Saffele/
+2 TYPE birth
+2 GIVN Maria Theresia
+2 SURN Van Den Saffele
+1 SEX F
+1 BIRT
+2 DATE 6 SEP 1862
+2 PLAC Evergem
+1 DEAT
+2 DATE 23 OCT 1938
+2 PLAC Evergem
+1 FAMC @F0019@
+2 PEDI birth
+1 FAMS @F0016@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:28
+0 @1862/09/10@ INDI
+1 NAME Polydor /Vanderhaegen/
+2 TYPE birth
+2 GIVN Polydor
+2 SURN Vanderhaegen
+1 SEX M
+1 BIRT
+2 DATE 10 SEP 1862
+1 FAMC @F0076@
+2 PEDI birth
+1 FAMS @F0075@
+1 CHAN
+2 DATE 30 AUG 2020
+3 TIME 22:17:11
+0 @1864/06/29@ INDI
+1 NAME Henrik /Colombeen/
+2 TYPE birth
+2 GIVN Henrik
+2 SURN Colombeen
+1 SEX M
+1 BIRT
+2 DATE 29 JUN 1864
+1 DEAT
+2 DATE 1 APR 1955
+2 PLAC Evergem
+1 FAMC @F0017@
+2 PEDI birth
+1 FAMS @F0016@
+1 CHAN
+2 DATE 27 JAN 2020
+3 TIME 21:45:42
+0 @1884/06/13@ INDI
+1 NAME Pelagia Maria /De Vos/
+2 TYPE birth
+2 GIVN Pelagia Maria
+2 SURN De Vos
+1 SEX F
+1 BIRT
+2 DATE 13 JUN 1884
+2 PLAC Evergem
+1 DEAT
+2 DATE 24 MAR 1955
+2 PLAC Evergem
+1 FAMC @F0013@
+2 PEDI birth
+1 FAMS @F0056@
+1 CHAN
+2 DATE 6 MAR 2020
+3 TIME 23:06:28
+0 @1885/04/19@ INDI
+1 NAME Louisa /De Vos/
+2 TYPE birth
+2 GIVN Louisa
+2 SURN De Vos
+1 SEX F
+1 BIRT
+2 DATE 19 APR 1885
+2 PLAC Evergem
+1 DEAT
+2 DATE 21 AUG 1957
+2 PLAC Evergem
+1 FAMC @F0013@
+2 PEDI birth
+1 FAMS @F0057@
+1 CHAN
+2 DATE 6 MAR 2020
+3 TIME 22:51:32
+0 @1890/10/22@ INDI
+1 NAME Pieter Omer /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Pieter Omer
+2 SURN De Vleeschauwer
+1 SEX M
+1 BIRT
+2 DATE 22 OCT 1890
+2 PLAC Outer
+1 DEAT
+2 DATE 8 JUL 1976
+2 PLAC Evergem
+1 FAMC @F0006@
+2 PEDI birth
+1 FAMS @F0005@
+1 CHAN
+2 DATE 16 JAN 2020
+3 TIME 09:32:04
+0 @1891/04/02@ INDI
+1 NAME Julius Josephus /Colombeen/
+2 TYPE birth
+2 GIVN Julius Josephus
+2 SURN Colombeen
+1 SEX M
+1 BIRT
+2 DATE 2 APR 1891
+2 PLAC Evergem
+1 FAMC @F0016@
+2 PEDI birth
+1 FAMS @F0067@
+1 CHAN
+2 DATE 21 MAR 2020
+3 TIME 22:44:19
+0 @1892/10/16@ INDI
+1 NAME Gustavus Leonardus /Colombeen/
+2 TYPE birth
+2 GIVN Gustavus Leonardus
+2 SURN Colombeen
+1 SEX M
+1 BIRT
+2 DATE 16 OCT 1892
+2 PLAC Evergem
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 13 MAR 2020
+3 TIME 21:52:28
+0 @1893/11/11@ INDI
+1 NAME Camillus /Colombeen/
+2 TYPE birth
+2 GIVN Camillus
+2 SURN Colombeen
+1 SEX M
+1 BIRT
+2 DATE 11 NOV 1893
+2 PLAC Evergem
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 13 MAR 2020
+3 TIME 21:52:28
+0 @1895/02/06@ INDI
+1 NAME Maria Margaretha Anna /Vanderhaegen/
+2 TYPE birth
+2 GIVN Maria Margaretha Anna
+2 SURN Vanderhaegen
+1 SEX F
+1 BIRT
+2 DATE 6 FEB 1895
+2 PLAC Drongen
+1 DEAT
+2 DATE 27 JUL 1955
+2 PLAC Evergem
+1 FAMC @F0075@
+2 PEDI birth
+1 FAMS @F0009@
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 22:25:43
+0 @1896/12/17@ INDI
+1 NAME Mauritius Lodewijk /Colombeen/
+2 TYPE birth
+2 GIVN Mauritius Lodewijk
+2 SURN Colombeen
+1 SEX M
+1 BIRT
+2 DATE 17 DEC 1896
+2 PLAC Evergem
+1 DEAT
+2 DATE 1972
+2 PLAC Evergem
+1 FAMC @F0016@
+2 PEDI birth
+1 FAMS @F0009@
+1 CHAN
+2 DATE 13 MAR 2020
+3 TIME 21:52:28
+0 @1898/06/05@ INDI
+1 NAME Clara Maria /De Vos/
+2 TYPE birth
+2 GIVN Clara Maria
+2 SURN De Vos
+1 SEX F
+1 BIRT
+2 DATE 5 JUN 1898
+2 PLAC Evergem
+1 DEAT
+2 DATE JUL 1980
+2 PLAC Evergem
+1 FAMC @F0013@
+2 PEDI birth
+1 FAMS @F0005@
+1 CHAN
+2 DATE 7 MAR 2020
+3 TIME 09:06:01
+0 @1898/08/19@ INDI
+1 NAME Cyriel Seraphien /Colombeen/
+2 TYPE birth
+2 GIVN Cyriel Seraphien
+2 SURN Colombeen
+1 SEX M
+1 BIRT
+2 DATE 19 AUG 1898
+2 PLAC Evergem
+1 FAMC @F0016@
+2 PEDI birth
+1 FAMS @F0062@
+1 CHAN
+2 DATE 13 MAR 2020
+3 TIME 21:52:28
+0 @1900/08/18@ INDI
+1 NAME Maria Helena /Colombeen/
+2 TYPE birth
+2 GIVN Maria Helena
+2 SURN Colombeen
+1 SEX F
+1 BIRT
+2 DATE 18 AUG 1900
+2 PLAC Evergem
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 13 MAR 2020
+3 TIME 21:52:28
+0 @1901/03/18@ INDI
+1 NAME Mauritius /Stock/
+2 TYPE birth
+2 GIVN Mauritius
+2 SURN Stock
+1 SEX M
+1 BIRT
+2 DATE 18 MAR 1901
+2 PLAC Evergem
+1 FAMC @F0052@
+2 PEDI birth
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 14:28:44
+0 @1901/06/27@ INDI
+1 NAME Maria Margaretha /Grootaert/
+2 TYPE birth
+2 GIVN Maria Margaretha
+2 SURN Grootaert
+1 SEX F
+1 BIRT
+2 DATE 27 JUN 1901
+2 PLAC Gent
+1 FAMC @F0049@
+2 PEDI birth
+1 FAMS @F0064@
+1 FAMS @F0066@
+1 CHAN
+2 DATE 20 MAR 2020
+3 TIME 22:32:05
+0 @1901/11/05a@ INDI
+1 NAME Achilles Augustus /Colombeen/
+2 TYPE birth
+2 GIVN Achilles Augustus
+2 SURN Colombeen
+1 SEX M
+1 BIRT
+2 DATE 5 NOV 1901
+2 PLAC Evergem
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 13 MAR 2020
+3 TIME 21:52:28
+0 @1901/11/05b@ INDI
+1 NAME Elisa Maria /Colombeen/
+2 TYPE birth
+2 GIVN Elisa Maria
+2 SURN Colombeen
+1 SEX F
+1 BIRT
+2 DATE 5 NOV 1901
+2 PLAC Evergem
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 13 MAR 2020
+3 TIME 21:52:28
+0 @1903/02/05@ INDI
+1 NAME Clara /Colombeen/
+2 TYPE birth
+2 GIVN Clara
+2 SURN Colombeen
+1 SEX F
+1 BIRT
+2 DATE 5 FEB 1903
+2 PLAC Evergem
+1 FAMC @F0016@
+2 PEDI birth
+1 CHAN
+2 DATE 13 MAR 2020
+3 TIME 21:52:28
+0 @1903/03/27@ INDI
+1 NAME Clara /Seyssens/
+2 TYPE birth
+2 GIVN Clara
+2 SURN Seyssens
+1 SEX F
+1 BIRT
+2 DATE 27 MAR 1903
+2 PLAC Evergem
+1 DEAT
+2 DATE 3 SEP 1903
+2 PLAC Evergem
+1 FAMC @F0054@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2020
+3 TIME 22:44:41
+0 @1903/06/12@ INDI
+1 NAME Elodia Clementia /Grootaert/
+2 TYPE birth
+2 GIVN Elodia Clementia
+2 SURN Grootaert
+1 SEX F
+1 BIRT
+2 DATE 12 JUN 1903
+2 PLAC Evergem
+1 FAMC @F0049@
+2 PEDI birth
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 22:55:55
+0 @1904/06/27@ INDI
+1 NAME Mauritius /Seyssens/
+2 TYPE birth
+2 GIVN Mauritius
+2 SURN Seyssens
+1 SEX M
+1 BIRT
+2 DATE 27 JUN 1904
+2 PLAC Evergem
+1 FAMC @F0054@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2020
+3 TIME 22:05:16
+0 @1906/01/20@ INDI
+1 NAME Michel /Stock/
+2 TYPE birth
+2 GIVN Michel
+2 SURN Stock
+1 SEX M
+1 BIRT
+2 DATE 20 JAN 1906
+2 PLAC Evergem
+1 DEAT
+2 DATE 23 JUN 1906
+2 PLAC Evergem
+1 FAMC @F0052@
+2 PEDI birth
+1 CHAN
+2 DATE 10 MAR 2020
+3 TIME 21:11:48
+0 @1906/04/08@ INDI
+1 NAME Louisa /Grootaert/
+2 TYPE birth
+2 GIVN Louisa
+2 SURN Grootaert
+1 SEX F
+1 BIRT
+2 DATE 8 APR 1906
+2 PLAC Evergem
+1 FAMC @F0049@
+2 PEDI birth
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 22:55:55
+0 @1906/04/13@ INDI
+1 NAME Rachel Louise /Seyssens/
+2 TYPE birth
+2 GIVN Rachel Louise
+2 SURN Seyssens
+1 SEX F
+1 BIRT
+2 DATE 13 APR 1906
+2 PLAC Evergem
+1 FAMC @F0054@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2020
+3 TIME 22:09:36
+0 @1907/07/24@ INDI
+1 NAME Maria Elisa /Stock/
+2 TYPE birth
+2 GIVN Maria Elisa
+2 SURN Stock
+1 SEX F
+1 BIRT
+2 DATE 24 JUL 1907
+2 PLAC Evergem
+1 DEAT
+2 DATE 28 AUG 1907
+2 PLAC Evergem
+1 FAMC @F0052@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 22:16:52
+0 @1908/04/19@ INDI
+1 NAME Achiel Mauritius /Grootaert/
+2 TYPE birth
+2 GIVN Achiel Mauritius
+2 SURN Grootaert
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1908
+2 PLAC Evergem
+1 FAMC @F0049@
+2 PEDI birth
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 22:55:55
+0 @1908/11/06@ INDI
+1 NAME Maurits Karel Lodewijk /De Paepe/
+2 TYPE birth
+2 GIVN Maurits Karel Lodewijk
+2 SURN De Paepe
+1 SEX M
+1 BIRT
+2 DATE 6 NOV 1908
+2 PLAC Ronsele
+1 FAMC @F0070@
+2 PEDI birth
+1 FAMS @F0069@
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 16:26:40
+0 @1910/07/27@ INDI
+1 NAME Aime Jozef /Grootaert/
+2 TYPE birth
+2 GIVN Aime Jozef
+2 SURN Grootaert
+1 SEX M
+1 BIRT
+2 DATE 27 JUL 1910
+2 PLAC Evergem
+1 FAMC @F0049@
+2 PEDI birth
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 22:55:55
+0 @1910/10/08@ INDI
+1 NAME Maria /Stock/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Stock
+1 SEX F
+1 BIRT
+2 DATE 8 OCT 1910
+2 PLAC Evergem
+1 DEAT
+2 DATE 9 FEB 1940
+2 PLAC Ronse
+1 FAMC @F0052@
+2 PEDI birth
+1 FAMS @F0069@
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 22:40:37
+0 @1911/09/25@ INDI
+1 NAME Jules Mauritius /Grootaert/
+2 TYPE birth
+2 GIVN Jules Mauritius
+2 SURN Grootaert
+1 SEX M
+1 BIRT
+2 DATE 25 SEP 1911
+2 PLAC Evergem
+1 FAMC @F0049@
+2 PEDI birth
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 22:55:55
+0 @1913/10/24@ INDI
+1 NAME Marcel Alphonse /De Kesel/
+2 TYPE birth
+2 GIVN Marcel Alphonse
+2 SURN De Kesel
+1 SEX M
+1 BIRT
+2 DATE 24 OCT 1913
+2 PLAC Evergem
+1 DEAT
+2 DATE 1994
+1 FAMC @F0056@
+2 PEDI birth
+1 FAMS @F0074@
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 16:27:51
+0 @1914/07/18@ INDI
+1 NAME Clarisse Zulma /Stock/
+2 TYPE birth
+2 GIVN Clarisse Zulma
+2 SURN Stock
+1 SEX F
+1 BIRT
+2 DATE 18 JUL 1914
+2 PLAC Evergem
+1 FAMC @F0052@
+2 PEDI birth
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 22:41:55
+0 @1915/01/18@ INDI
+1 NAME Marcel /Seyssens/
+2 TYPE birth
+2 GIVN Marcel
+2 SURN Seyssens
+1 SEX M
+1 BIRT
+2 DATE 18 JAN 1915
+2 PLAC Evergem
+1 FAMC @F0054@
+2 PEDI birth
+1 CHAN
+2 DATE 1 MAR 2020
+3 TIME 22:16:06
+0 @1915/07/31@ INDI
+1 NAME Jules Gustaaf /Grootaert/
+2 TYPE birth
+2 GIVN Jules Gustaaf
+2 SURN Grootaert
+1 SEX M
+1 BIRT
+2 DATE 31 JUL 1915
+2 PLAC Evergem
+1 FAMC @F0049@
+2 PEDI birth
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 22:55:55
+0 @1917/06/02@ INDI
+1 NAME Esther Louisa /Grootaert/
+2 TYPE birth
+2 GIVN Esther Louisa
+2 SURN Grootaert
+1 SEX F
+1 BIRT
+2 DATE 2 JUN 1917
+2 PLAC Evergem
+1 FAMC @F0049@
+2 PEDI birth
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 22:55:55
+0 @1930/10/14@ INDI
+1 NAME Marcel /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Marcel
+2 SURN De Vleeschauwer
+1 SEX M
+1 BIRT
+2 DATE 14 OCT 1930
+2 PLAC Evergem
+1 DEAT
+2 DATE 13 MAR 2013
+2 PLAC Evergem
+1 FAMC @F0005@
+2 PEDI birth
+1 FAMS @F0002@
+1 CHAN
+2 DATE 19 JAN 2020
+3 TIME 21:03:37
+0 @1932/03/06@ INDI
+1 NAME Mariette /Colombeen/
+2 TYPE birth
+2 GIVN Mariette
+2 SURN Colombeen
+1 SEX F
+1 BIRT
+2 DATE 6 MAR 1932
+2 PLAC Evergem
+1 DEAT
+2 DATE 22 AUG 2020
+2 PLAC Sleidinge
+1 FAMC @F0009@
+2 PEDI birth
+1 FAMS @F0002@
+1 CHAN
+2 DATE 28 AUG 2020
+3 TIME 22:38:51
+0 @1937/03/27@ INDI
+1 NAME Lisette /De Paepe/
+2 TYPE birth
+2 GIVN Lisette
+2 SURN De Paepe
+1 SEX F
+1 BIRT
+2 DATE 27 MAR 1937
+2 PLAC Vinderhoute
+1 DEAT
+2 DATE 7 APR 2020
+2 PLAC Gent
+1 FAMC @F0069@
+2 PEDI birth
+1 FAMS @F0071@
+1 FAMS @F0072@
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 22:19:01
+0 @1945/04/15@ INDI
+1 NAME Antanas /Rimeikis/
+2 TYPE birth
+2 GIVN Antanas
+2 SURN Rimeikis
+1 SEX M
+1 BIRT
+2 DATE 15 APR 1945
+1 DEAT
+2 DATE 19 NOV 1983
+1 FAMC @F0007@
+2 PEDI birth
+1 FAMS @F0004@
+1 CHAN
+2 DATE 16 JAN 2020
+3 TIME 21:28:00
+0 @1962/06/01@ INDI
+1 NAME Danny Maurice /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Danny Maurice
+2 SURN De Vleeschauwer
+1 SEX M
+1 BIRT
+2 DATE 1 JUN 1962
+1 FAMC @F0002@
+2 PEDI birth
+1 FAMS @F0001@
+1 CHAN
+2 DATE 23 JAN 2020
+3 TIME 22:09:20
+0 @1966/07/07@ INDI
+1 NAME Mia /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Mia
+2 SURN De Vleeschauwer
+1 SEX F
+1 BIRT
+2 DATE 7 JUL 1966
+1 FAMC @F0002@
+2 PEDI birth
+1 FAMS @F0051@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 09:24:02
+0 @1981/04/11@ INDI
+1 NAME Sigita /Rimeikytė/
+2 TYPE birth
+2 GIVN Sigita
+2 SURN Rimeikytė
+1 SEX F
+1 BIRT
+2 DATE 11 APR 1981
+1 FAMC @F0004@
+2 PEDI birth
+1 FAMS @F0001@
+1 CHAN
+2 DATE 23 JAN 2020
+3 TIME 22:09:29
+0 @2018/07/24@ INDI
+1 NAME Emilie /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Emilie
+2 SURN De Vleeschauwer
+1 SEX F
+1 BIRT
+2 DATE 24 JUL 2018
+2 PLAC Gent
+1 FAMC @F0001@
+2 PEDI birth
+1 CHAN
+2 DATE 12 FEB 2020
+3 TIME 22:06:04
+0 @I0000@ INDI
+1 NAME Andre /De Somviele/
+2 TYPE birth
+2 GIVN Andre
+2 SURN De Somviele
+1 SEX M
+1 DEAT
+2 DATE 6 JUN 1800
+1 FAMS @F0200@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 22:38:53
+0 @I0001@ INDI
+1 NAME Catharine /Van Vooren/
+2 TYPE birth
+2 GIVN Catharine
+2 SURN Van Vooren
+1 SEX F
+1 DEAT
+2 DATE 1 DEC 1804
+2 PLAC Sleidinge
+1 FAMS @F0200@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 22:38:53
+0 @I0002@ INDI
+1 NAME Josse /Reyniers/
+2 TYPE birth
+2 GIVN Josse
+2 SURN Reyniers
+1 SEX M
+1 FAMS @F0003@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 22:41:39
+0 @I0003@ INDI
+1 NAME Jeanne /De Reu/
+2 TYPE birth
+2 GIVN Jeanne
+2 SURN De Reu
+1 SEX F
+1 DEAT
+2 DATE 25 MAY 1775
+1 FAMS @F0003@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 22:41:39
+0 @I0004@ INDI
+1 NAME Teresė /Baltrušaitytė/
+2 TYPE birth
+2 GIVN Teresė
+2 SURN Baltrušaitytė
+1 SEX F
+1 BIRT
+2 DATE 25 FEB 1951
+1 FAMC @F0008@
+2 PEDI birth
+1 FAMS @F0004@
+1 CHAN
+2 DATE 16 JAN 2020
+3 TIME 21:31:40
+0 @I0005@ INDI
+1 NAME Joannes /Mestdag/
+2 TYPE birth
+2 GIVN Joannes
+2 SURN Mestdag
+1 SEX M
+1 FAMS @F0011@
+1 CHAN
+2 DATE 16 FEB 2020
+3 TIME 21:58:37
+0 @I0006@ INDI
+1 NAME Marie /De Baets/
+2 TYPE birth
+2 GIVN Marie
+2 SURN De Baets
+1 SEX F
+1 FAMS @F0011@
+1 CHAN
+2 DATE 10 FEB 2020
+3 TIME 22:05:54
+0 @I0007@ INDI
+1 NAME Joannes Baptiste /Buckerier/
+2 TYPE birth
+2 GIVN Joannes Baptiste
+2 SURN Buckerier
+1 SEX M
+1 BIRT
+2 DATE 1755
+2 PLAC Sleidinge
+1 FAMS @F0033@
+1 CHAN
+2 DATE 16 FEB 2020
+3 TIME 21:47:21
+0 @I0008@ INDI
+1 NAME Catherine /Geirnaert/
+2 TYPE birth
+2 GIVN Catherine
+2 SURN Geirnaert
+1 SEX F
+1 DEAT
+2 DATE 5 AUG 1789
+2 PLAC Sleidinge
+1 FAMS @F0033@
+1 CHAN
+2 DATE 16 FEB 2020
+3 TIME 21:48:20
+0 @I0009@ INDI
+1 NAME Dominique /Mestdag/
+2 TYPE birth
+2 GIVN Dominique
+2 SURN Mestdag
+1 SEX M
+1 BIRT
+2 DATE 1784
+2 PLAC Sleidinge
+1 FAMC @F0011@
+2 PEDI birth
+1 CHAN
+2 DATE 10 FEB 2020
+3 TIME 22:09:10
+0 @I0010@ INDI
+1 NAME Juozapas /Rimeikis/
+2 TYPE birth
+2 GIVN Juozapas
+2 SURN Rimeikis
+1 SEX M
+1 BIRT
+2 DATE 1874
+1 DEAT
+2 DATE 1947
+1 FAMS @F0007@
+1 CHAN
+2 DATE 17 JAN 2020
+3 TIME 19:53:59
+0 @I0011@ INDI
+1 NAME Stanislava /Meržvinskaitė/
+2 TYPE birth
+2 GIVN Stanislava
+2 SURN Meržvinskaitė
+1 SEX F
+1 FAMS @F0007@
+1 CHAN
+2 DATE 17 JAN 2020
+3 TIME 19:54:41
+0 @I0012@ INDI
+1 NAME Boleslovas /Baltrušaitis/
+2 TYPE birth
+2 GIVN Boleslovas
+2 SURN Baltrušaitis
+1 SEX M
+1 BIRT
+2 DATE 1910
+1 DEAT
+2 DATE 15 SEP 1994
+1 FAMS @F0008@
+1 CHAN
+2 DATE 17 JAN 2020
+3 TIME 19:56:40
+0 @I0013@ INDI
+1 NAME Joanna /Butkutė/
+2 TYPE birth
+2 GIVN Joanna
+2 SURN Butkutė
+1 SEX F
+1 BIRT
+2 DATE 15 AUG 1925
+1 DEAT
+2 DATE 11 FEB 2019
+1 FAMC @F0010@
+2 PEDI birth
+1 FAMS @F0008@
+1 CHAN
+2 DATE 17 JAN 2020
+3 TIME 20:06:31
+0 @I0014@ INDI
+1 NAME Silvester Joannes /Van Den Saffele/
+2 TYPE birth
+2 GIVN Silvester Joannes
+2 SURN Van Den Saffele
+1 SEX M
+1 BIRT
+2 DATE 1742
+1 DEAT
+2 DATE 22 NOV 1803
+2 PLAC Evergem
+1 FAMC @F0047@
+2 PEDI birth
+1 FAMS @F0034@
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:59:11
+0 @I0015@ INDI
+1 NAME Ona /Baliutavičiutė/
+2 TYPE birth
+2 GIVN Ona
+2 SURN Baliutavičiutė
+1 SEX F
+1 FAMS @F0010@
+1 CHAN
+2 DATE 17 JAN 2020
+3 TIME 20:06:31
+0 @I0016@ INDI
+1 NAME Juozapas /Butkus/
+2 TYPE birth
+2 GIVN Juozapas
+2 SURN Butkus
+1 SEX M
+1 FAMS @F0010@
+1 CHAN
+2 DATE 17 JAN 2020
+3 TIME 20:06:31
+0 @I0017@ INDI
+1 NAME Anna Marie /Van Hove/
+2 TYPE birth
+2 GIVN Anna Marie
+2 SURN Van Hove
+1 SEX F
+1 BIRT
+2 DATE 1763
+1 DEAT
+2 DATE 18 APR 1835
+2 PLAC Evergem
+1 FAMC @F0048@
+2 PEDI birth
+1 FAMS @F0034@
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:41:34
+0 @I0018@ INDI
+1 NAME Judocus /Goethals/
+2 TYPE birth
+2 GIVN Judocus
+2 SURN Goethals
+1 SEX M
+1 FAMS @F0037@
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:16:27
+0 @I0019@ INDI
+1 NAME Catherina /Vereecken/
+2 TYPE birth
+2 GIVN Catherina
+2 SURN Vereecken
+1 SEX F
+1 DEAT
+2 DATE 4 DEC 1812
+2 PLAC Evergem
+1 FAMS @F0037@
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:16:36
+0 @I0020@ INDI
+1 NAME Joannes Baptista /Neyt/
+2 TYPE birth
+2 GIVN Joannes Baptista
+2 SURN Neyt
+1 SEX M
+1 DEAT
+2 DATE 19 MAR 1803
+2 PLAC Gent
+1 FAMS @F0038@
+1 CHAN
+2 DATE 11 FEB 2020
+3 TIME 22:34:52
+0 @I0021@ INDI
+1 NAME Philippina /Rogge/
+2 TYPE birth
+2 GIVN Philippina
+2 SURN Rogge
+1 SEX F
+1 BIRT
+2 PLAC Gent
+1 FAMS @F0038@
+1 CHAN
+2 DATE 11 FEB 2020
+3 TIME 22:34:52
+0 @I0022@ INDI
+1 NAME Petrus /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Petrus
+2 SURN De Vleeschauwer
+1 SEX M
+1 DEAT
+2 DATE 22 OCT 1862
+2 PLAC Voorde
+1 FAMS @F0039@
+1 CHAN
+2 DATE 12 FEB 2020
+3 TIME 22:19:13
+0 @I0023@ INDI
+1 NAME Sophia /Menschaert/
+2 TYPE birth
+2 GIVN Sophia
+2 SURN Menschaert
+1 SEX F
+1 BIRT
+2 DATE 1824
+1 FAMS @F0039@
+1 CHAN
+2 DATE 12 FEB 2020
+3 TIME 22:19:13
+0 @I0024@ INDI
+1 NAME Petrus Franciscus /Lauwaert/
+2 TYPE birth
+2 GIVN Petrus Franciscus
+2 SURN Lauwaert
+1 SEX M
+1 BIRT
+2 DATE AUG 1815
+2 PLAC Outer
+1 DEAT
+2 DATE 12 JUL 1890
+2 PLAC Outer
+1 FAMC @F0042@
+2 PEDI birth
+1 FAMS @F0040@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 15:54:11
+0 @I0025@ INDI
+1 NAME Michel /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Michel
+2 SURN De Vleeschauwer
+1 SEX M
+1 BIRT
+2 DATE 1934
+1 DEAT
+2 DATE 1981
+2 PLAC Evergem
+1 FAMC @F0005@
+2 PEDI birth
+1 FAMS @F0059@
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 20:22:32
+0 @I0026@ INDI
+1 NAME Isabella /Couck/
+2 TYPE birth
+2 GIVN Isabella
+2 SURN Couck
+1 SEX F
+1 BIRT
+2 DATE 3 DEC 1820
+2 PLAC Sint-Antelinks
+1 FAMS @F0040@
+1 CHAN
+2 DATE 12 FEB 2020
+3 TIME 22:25:20
+0 @I0027@ INDI
+1 NAME Marie Emma /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Marie Emma
+2 SURN De Vleeschauwer
+1 SEX F
+1 BIRT
+2 DATE 23 JAN 1893
+2 PLAC Outer
+1 FAMC @F0006@
+2 PEDI birth
+1 CHAN
+2 DATE 12 FEB 2020
+3 TIME 22:27:15
+0 @I0028@ INDI
+1 NAME Maria Clementina /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Maria Clementina
+2 SURN De Vleeschauwer
+1 SEX F
+1 BIRT
+2 DATE 28 APR 1894
+2 PLAC Outer
+1 FAMC @F0006@
+2 PEDI birth
+1 CHAN
+2 DATE 12 FEB 2020
+3 TIME 22:31:47
+0 @I0029@ INDI
+1 NAME Maria /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Maria
+2 SURN De Vleeschauwer
+1 SEX F
+1 BIRT
+2 DATE 3 MAR 1896
+2 PLAC Outer
+1 DEAT
+2 DATE 13 JUL 1896
+2 PLAC Brussel
+1 FAMC @F0006@
+2 PEDI birth
+1 CHAN
+2 DATE 12 FEB 2020
+3 TIME 22:30:02
+0 @I0030@ INDI
+1 NAME Maria Joanna Benedikta /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Maria Joanna Benedikta
+2 SURN De Vleeschauwer
+1 SEX F
+1 BIRT
+2 DATE 5 JAN 1898
+2 PLAC Outer
+1 DEAT
+2 DATE 11 MAR 1898
+2 PLAC Outer
+1 FAMC @F0006@
+2 PEDI birth
+1 CHAN
+2 DATE 12 FEB 2020
+3 TIME 22:31:37
+0 @I0037@ INDI
+1 NAME Petrus /Lauwaert/
+2 TYPE birth
+2 GIVN Petrus
+2 SURN Lauwaert
+1 SEX M
+1 BIRT
+2 DATE 8 JAN 1785
+2 PLAC Appelterre
+1 DEAT
+2 DATE 20 OCT 1854
+2 PLAC Outer
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 15:39:58
+0 @I0038@ INDI
+1 NAME Petronella-Florentina /De Mulder/
+2 TYPE birth
+2 GIVN Petronella-Florentina
+2 SURN De Mulder
+1 SEX F
+1 BIRT
+2 DATE 1761
+1 DEAT
+2 DATE 20 MAY 1826
+2 PLAC Appelterre
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 15:39:58
+0 @I0039@ INDI
+1 NAME Petrus /Lauwaert/
+2 TYPE birth
+2 GIVN Petrus
+2 SURN Lauwaert
+1 SEX M
+1 BIRT
+2 DATE 8 JAN 1785
+2 PLAC Appelterre
+1 DEAT
+2 DATE 20 OCT 1854
+2 PLAC Outer
+1 FAMC @F0043@
+2 PEDI birth
+1 FAMS @F0042@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:11:51
+0 @I0040@ INDI
+1 NAME Joanna-Catharina /Scheerlinck/
+2 TYPE birth
+2 GIVN Joanna-Catharina
+2 SURN Scheerlinck
+1 SEX F
+1 FAMC @F0044@
+2 PEDI birth
+1 FAMS @F0042@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:05:46
+0 @I0041@ INDI
+1 NAME Henri /De Vos/
+2 TYPE birth
+2 GIVN Henri
+2 SURN De Vos
+1 SEX M
+1 BIRT
+2 DATE 1850
+1 FAMC @F0014@
+2 PEDI birth
+1 CHAN
+2 DATE 25 JAN 2020
+3 TIME 22:33:53
+0 @I0042@ INDI
+1 NAME Petrus /De Vos/
+2 TYPE birth
+2 GIVN Petrus
+2 SURN De Vos
+1 SEX M
+1 BIRT
+2 DATE 4 SEP 1816
+2 PLAC Evergem
+1 FAMC @F0022@
+2 PEDI birth
+1 CHAN
+2 DATE 7 FEB 2020
+3 TIME 22:58:55
+0 @I0043@ INDI
+1 NAME Carolus Franciscus /Colombeen/
+2 TYPE birth
+2 GIVN Carolus Franciscus
+2 SURN Colombeen
+1 SEX M
+1 BIRT
+2 DATE 1783
+2 PLAC Waarschoot
+1 FAMS @F0023@
+1 CHAN
+2 DATE 28 JAN 2020
+3 TIME 20:32:40
+0 @I0044@ INDI
+1 NAME Maria Anna /Boets/
+2 TYPE birth
+2 GIVN Maria Anna
+2 SURN Boets
+1 SEX F
+1 BIRT
+2 DATE 1793
+2 PLAC Lovendegem
+1 DEAT
+2 DATE 26 OCT 1847
+2 PLAC Evergem
+1 FAMS @F0023@
+1 CHAN
+2 DATE 27 JAN 2020
+3 TIME 21:49:19
+0 @I0045@ INDI
+1 NAME Guillelmus /Lauwaert/
+2 TYPE birth
+2 GIVN Guillelmus
+2 SURN Lauwaert
+1 SEX M
+1 BIRT
+2 DATE 14 APR 1760
+2 PLAC Appelterre
+1 DEAT
+2 DATE 14 FEB 1840
+2 PLAC Appelterre
+1 FAMC @F0045@
+2 PEDI birth
+1 FAMS @F0043@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:44:55
+0 @I0046@ INDI
+1 NAME Petronella Florentina /De Mulder/
+2 TYPE birth
+2 GIVN Petronella Florentina
+2 SURN De Mulder
+1 SEX F
+1 BIRT
+2 DATE 1761
+2 PLAC Appelterre
+1 DEAT
+2 DATE 20 MAY 1826
+2 PLAC Appelterre
+1 FAMS @F0043@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:09:52
+0 @I0047@ INDI
+1 NAME Gustaaf /Colombeen/
+2 TYPE birth
+2 GIVN Gustaaf
+2 SURN Colombeen
+1 SEX M
+1 BIRT
+2 DATE 14 AUG 1854
+2 PLAC Evergem
+1 FAMC @F0017@
+2 PEDI birth
+1 CHAN
+2 DATE 27 JAN 2020
+3 TIME 21:50:23
+0 @I0049@ INDI
+1 NAME Maria Coleta /De Vos/
+2 TYPE birth
+2 GIVN Maria Coleta
+2 SURN De Vos
+1 SEX F
+1 BIRT
+2 DATE 7 DEC 1877
+2 PLAC Evergem
+1 DEAT
+2 DATE 17 MAR 1943
+2 PLAC Evergem
+1 FAMC @F0013@
+2 PEDI birth
+1 FAMS @F0049@
+1 CHAN
+2 DATE 6 MAR 2020
+3 TIME 23:00:16
+0 @I0051@ INDI
+1 NAME Prudentia Amelia /De Vos/
+2 TYPE birth
+2 GIVN Prudentia Amelia
+2 SURN De Vos
+1 SEX F
+1 BIRT
+2 DATE 28 APR 1879
+1 FAMC @F0013@
+2 PEDI birth
+1 FAMS @F0052@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 13:29:13
+0 @I0052@ INDI
+1 NAME Ida Maria /De Vos/
+2 TYPE birth
+2 GIVN Ida Maria
+2 SURN De Vos
+1 SEX F
+1 BIRT
+2 DATE 20 AUG 1880
+2 PLAC Evergem
+1 DEAT
+2 DATE 26 JUN 1968
+2 PLAC Evergem
+1 FAMC @F0013@
+2 PEDI birth
+1 FAMS @F0054@
+1 CHAN
+2 DATE 6 MAR 2020
+3 TIME 22:43:22
+0 @I0053@ INDI
+1 NAME Livinus /Scheerlinck/
+2 TYPE birth
+2 GIVN Livinus
+2 SURN Scheerlinck
+1 SEX M
+1 FAMS @F0044@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:04:53
+0 @I0054@ INDI
+1 NAME Francisca /De Wijse/
+2 TYPE birth
+2 GIVN Francisca
+2 SURN De Wijse
+1 SEX F
+1 FAMS @F0044@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:05:46
+0 @I0055@ INDI
+1 NAME Bernardus /Haelman/
+2 TYPE birth
+2 GIVN Bernardus
+2 SURN Haelman
+1 SEX M
+1 DEAT
+2 DATE 5 DEC 1855
+2 PLAC Zomergem
+1 FAMS @F0026@
+1 CHAN
+2 DATE 31 JAN 2020
+3 TIME 22:24:52
+0 @I0056@ INDI
+1 NAME Regina /De Baerdemaeker/
+2 TYPE birth
+2 GIVN Regina
+2 SURN De Baerdemaeker
+1 SEX F
+1 DEAT
+2 DATE 13 NOV 1850
+2 PLAC Zomergem
+1 FAMS @F0026@
+1 CHAN
+2 DATE 31 JAN 2020
+3 TIME 22:24:52
+0 @I0057@ INDI
+1 NAME Joannes-Baptiste /Lauwaert/
+2 TYPE birth
+2 GIVN Joannes-Baptiste
+2 SURN Lauwaert
+1 SEX M
+1 BIRT
+2 DATE 1723
+1 DEAT
+2 DATE 7 AUG 1803
+2 PLAC Appelterre
+1 FAMS @F0045@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:44:03
+0 @I0058@ INDI
+1 NAME Joannes Baptista /Colombeen/
+2 TYPE birth
+2 GIVN Joannes Baptista
+2 SURN Colombeen
+1 SEX M
+1 BIRT
+2 DATE 8 NOV 1867
+2 PLAC Evergem
+1 FAMC @F0017@
+2 PEDI birth
+1 CHAN
+2 DATE 31 JAN 2020
+3 TIME 22:38:32
+0 @I0063@ INDI
+1 NAME Joannes Bernardus /De Somviele/
+2 TYPE birth
+2 GIVN Joannes Bernardus
+2 SURN De Somviele
+1 SEX M
+1 BIRT
+2 DATE 1774
+1 FAMC @F0200@
+2 PEDI birth
+1 FAMS @F0029@
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 13:46:44
+0 @I0064@ INDI
+1 NAME Isabella Theresia /Reyniers/
+2 TYPE birth
+2 GIVN Isabella Theresia
+2 SURN Reyniers
+1 SEX F
+1 BIRT
+2 DATE 1775
+1 DEAT
+2 DATE 11 JAN 1827
+1 FAMC @F0003@
+2 PEDI birth
+1 FAMS @F0029@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 22:41:39
+0 @I0065@ INDI
+1 NAME Anna /De Schepper/
+2 TYPE birth
+2 GIVN Anna
+2 SURN De Schepper
+1 SEX F
+1 FAMS @F0045@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:14:53
+0 @I0066@ INDI
+1 NAME Joannes /Lauwaert/
+2 TYPE birth
+2 GIVN Joannes
+2 SURN Lauwaert
+1 SEX M
+1 BIRT
+2 DATE 26 JUN 1788
+2 PLAC Appelterre
+1 FAMC @F0043@
+2 PEDI birth
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:16:31
+0 @I0067@ INDI
+1 NAME Henri /Goethals/
+2 TYPE birth
+2 GIVN Henri
+2 SURN Goethals
+1 SEX M
+1 BIRT
+2 DATE 14 NOV 1845
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @I0068@ INDI
+1 NAME Leo /Goethals/
+2 TYPE birth
+2 GIVN Leo
+2 SURN Goethals
+1 SEX M
+1 BIRT
+2 DATE 31 JAN 1831
+2 PLAC Sleidinge
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @I0069@ INDI
+1 NAME Augustus /Goethals/
+2 TYPE birth
+2 GIVN Augustus
+2 SURN Goethals
+1 SEX M
+1 BIRT
+2 DATE 8 SEP 1855
+2 PLAC Sleidinge
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @I0070@ INDI
+1 NAME Carolus Ludovicus /Goethals/
+2 TYPE birth
+2 GIVN Carolus Ludovicus
+2 SURN Goethals
+1 SEX M
+1 BIRT
+2 DATE 3 AUG 1829
+2 PLAC Sleidinge
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @I0071@ INDI
+1 NAME Bernardus /Goethals/
+2 TYPE birth
+2 GIVN Bernardus
+2 SURN Goethals
+1 SEX M
+1 BIRT
+2 DATE 7 MAY 1843
+2 PLAC Sleidinge
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @I0072@ INDI
+1 NAME Franciscus /Goethals/
+2 TYPE birth
+2 GIVN Franciscus
+2 SURN Goethals
+1 SEX M
+1 BIRT
+2 DATE 10 NOV 1851
+2 PLAC Sleidinge
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @I0073@ INDI
+1 NAME Livinus /Goethals/
+2 TYPE birth
+2 GIVN Livinus
+2 SURN Goethals
+1 SEX M
+1 BIRT
+2 DATE 4 FEB 1839
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @I0074@ INDI
+1 NAME Ludovica /Goethals/
+2 TYPE birth
+2 GIVN Ludovica
+2 SURN Goethals
+1 SEX F
+1 BIRT
+2 DATE 28 MAR 1837
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @I0075@ INDI
+1 NAME Petrus /Goethals/
+2 TYPE birth
+2 GIVN Petrus
+2 SURN Goethals
+1 SEX M
+1 BIRT
+2 DATE 31 JAN 1841
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @I0076@ INDI
+1 NAME Georgius Franciscus /Goethals/
+2 TYPE birth
+2 GIVN Georgius Franciscus
+2 SURN Goethals
+1 SEX M
+1 BIRT
+2 DATE 15 JAN 1835
+2 PLAC Sleidinge
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @I0077@ INDI
+1 NAME Virgina /Goethals/
+2 TYPE birth
+2 GIVN Virgina
+2 SURN Goethals
+1 SEX F
+1 BIRT
+2 DATE 27 NOV 1832
+1 FAMC @F0015@
+2 PEDI birth
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @I0078@ INDI
+1 NAME Jean Baptiste /De Vos/
+2 TYPE birth
+2 GIVN Jean Baptiste
+2 SURN De Vos
+1 SEX M
+1 FAMS @F0031@
+1 CHAN
+2 DATE 7 FEB 2020
+3 TIME 23:02:39
+0 @I0079@ INDI
+1 NAME Livine /Lybaert/
+2 TYPE birth
+2 GIVN Livine
+2 SURN Lybaert
+1 SEX F
+1 FAMS @F0031@
+1 CHAN
+2 DATE 7 FEB 2020
+3 TIME 23:02:39
+0 @I0080@ INDI
+1 NAME Joseph /Teirlinck/
+2 TYPE birth
+2 GIVN Joseph
+2 SURN Teirlinck
+1 NAME Josephe /Teirlinck/
+2 TYPE birth
+2 GIVN Josephe
+2 SURN Teirlinck
+1 SEX M
+1 BIRT
+2 DATE 1739
+1 FACT I0083
+2 TYPE Merged Gramps ID
+1 FAMS @F0032@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:49:08
+0 @I0081@ INDI
+1 NAME Georgine /Verasselt/
+2 TYPE birth
+2 GIVN Georgine
+2 SURN Verasselt
+1 SEX F
+1 FACT I0082
+2 TYPE Merged Gramps ID
+1 FACT I0085
+2 TYPE Merged Gramps ID
+1 FAMS @F0032@
+1 CHAN
+2 DATE 16 FEB 2020
+3 TIME 22:23:12
+0 @I0082@ INDI
+1 NAME Anna-Maria /Lauwaert/
+2 TYPE birth
+2 GIVN Anna-Maria
+2 SURN Lauwaert
+1 SEX F
+1 BIRT
+2 DATE 7 JUN 1791
+2 PLAC Appelterre
+1 DEAT
+2 DATE 8 MAR 1855
+2 PLAC Appelterre
+1 FAMC @F0043@
+2 PEDI birth
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:42:27
+0 @I0083@ INDI
+1 NAME Bernardus /Mestdag/
+2 TYPE birth
+2 GIVN Bernardus
+2 SURN Mestdag
+1 SEX M
+1 BIRT
+2 DATE 1781
+1 FAMC @F0011@
+2 PEDI birth
+1 CHAN
+2 DATE 16 FEB 2020
+3 TIME 21:59:36
+0 @I0084@ INDI
+1 NAME Francois /Teirlinck/
+2 TYPE birth
+2 GIVN Francois
+2 SURN Teirlinck
+1 SEX M
+1 BIRT
+2 DATE 1777
+1 FAMC @F0032@
+2 PEDI birth
+1 CHAN
+2 DATE 8 FEB 2020
+3 TIME 20:17:57
+0 @I0085@ INDI
+1 NAME Jacobus Francies /Mestdag/
+2 TYPE birth
+2 GIVN Jacobus Francies
+2 SURN Mestdag
+1 SEX M
+1 BIRT
+2 DATE 1770
+1 FAMC @F0011@
+2 PEDI birth
+1 CHAN
+2 DATE 16 FEB 2020
+3 TIME 22:00:20
+0 @I0086@ INDI
+1 NAME Francois /Goethals/
+2 TYPE birth
+2 GIVN Francois
+2 SURN Goethals
+1 SEX M
+1 FAMS @F0035@
+1 CHAN
+2 DATE 8 FEB 2020
+3 TIME 21:13:28
+0 @I0087@ INDI
+1 NAME Petronelle /De Wevere/
+2 TYPE birth
+2 GIVN Petronelle
+2 SURN De Wevere
+1 SEX F
+1 FAMS @F0035@
+1 CHAN
+2 DATE 8 FEB 2020
+3 TIME 21:13:28
+0 @I0088@ INDI
+1 NAME Pierre Bernard /Van Durme/
+2 TYPE birth
+2 GIVN Pierre Bernard
+2 SURN Van Durme
+1 SEX M
+1 FAMS @F0036@
+1 CHAN
+2 DATE 8 FEB 2020
+3 TIME 21:19:41
+0 @I0089@ INDI
+1 NAME Jeanne Jossine /Van Hecke/
+2 TYPE birth
+2 GIVN Jeanne Jossine
+2 SURN Van Hecke
+1 SEX F
+1 FAMS @F0036@
+1 CHAN
+2 DATE 8 FEB 2020
+3 TIME 21:19:41
+0 @I0090@ INDI
+1 NAME Bruno /Desoneville/
+2 TYPE birth
+2 GIVN Bruno
+2 SURN Desoneville
+1 SEX M
+1 BIRT
+2 DATE 1772
+1 FAMS @F0046@
+1 CHAN
+2 DATE 16 FEB 2020
+3 TIME 22:32:22
+0 @I0091@ INDI
+1 NAME Silvester /Van Den Saffele/
+2 TYPE birth
+2 GIVN Silvester
+2 SURN Van Den Saffele
+1 SEX M
+1 FAMS @F0047@
+1 CHAN
+2 DATE 17 FEB 2020
+3 TIME 21:55:57
+0 @I0092@ INDI
+1 NAME Jeanne /Ryckaert/
+2 TYPE birth
+2 GIVN Jeanne
+2 SURN Ryckaert
+1 SEX F
+1 FAMS @F0047@
+1 CHAN
+2 DATE 17 FEB 2020
+3 TIME 21:55:57
+0 @I0093@ INDI
+1 NAME Joannes /Van Hove/
+2 TYPE birth
+2 GIVN Joannes
+2 SURN Van Hove
+1 SEX M
+1 FAMS @F0048@
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:42:18
+0 @I0094@ INDI
+1 NAME Anna Marie /De Vogelaere/
+2 TYPE birth
+2 GIVN Anna Marie
+2 SURN De Vogelaere
+1 SEX F
+1 FAMS @F0048@
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:42:11
+0 @I0095@ INDI
+1 NAME Leopold Edward Josef /Van Den Saffele/
+2 TYPE birth
+2 GIVN Leopold Edward Josef
+2 SURN Van Den Saffele
+1 SEX M
+1 BIRT
+2 DATE 1835
+1 FAMC @F0024@
+2 PEDI birth
+1 CHAN
+2 DATE 17 FEB 2020
+3 TIME 22:12:15
+0 @I0096@ INDI
+1 NAME Joannes Franciscus /Van Den Saffele/
+2 TYPE birth
+2 GIVN Joannes Franciscus
+2 SURN Van Den Saffele
+1 SEX M
+1 BIRT
+2 DATE 2 JAN 1819
+2 PLAC Evergem
+1 DEAT
+2 DATE 14 APR 1821
+2 PLAC Evergem
+1 FAMC @F0025@
+2 PEDI birth
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:22:30
+0 @I0097@ INDI
+1 NAME Pieter Francies /Van Den Saffele/
+2 TYPE birth
+2 GIVN Pieter Francies
+2 SURN Van Den Saffele
+1 SEX M
+1 BIRT
+2 DATE 1831
+1 FAMC @F0025@
+2 PEDI birth
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:33:32
+0 @I0098@ INDI
+1 NAME Pieter Francies /Van Den Saffele/
+2 TYPE birth
+2 GIVN Pieter Francies
+2 SURN Van Den Saffele
+1 SEX M
+1 BIRT
+2 DATE 1797
+1 FAMC @F0034@
+2 PEDI birth
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:44:50
+0 @I0099@ INDI
+1 NAME Rosalie /Van Den Saffele/
+2 TYPE birth
+2 GIVN Rosalie
+2 SURN Van Den Saffele
+1 SEX F
+1 BIRT
+2 DATE 21 MAR 1800
+2 PLAC Evergem
+1 FAMC @F0034@
+2 PEDI birth
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:50:30
+0 @I0100@ INDI
+1 NAME Pierre /Buckerier/
+2 TYPE birth
+2 GIVN Pierre
+2 SURN Buckerier
+1 SEX M
+1 BIRT
+2 DATE 4 APR 1811
+2 PLAC Sleidinge
+1 FAMC @F0021@
+2 PEDI birth
+1 CHAN
+2 DATE 19 FEB 2020
+3 TIME 21:55:00
+0 @I0101@ INDI
+1 NAME Colete /Buckerier/
+2 TYPE birth
+2 GIVN Colete
+2 SURN Buckerier
+1 SEX F
+1 BIRT
+2 DATE 25 SEP 1809
+2 PLAC Sleidinge
+1 DEAT
+2 DATE 17 JUN 1810
+2 PLAC Sleidinge
+1 FAMC @F0021@
+2 PEDI birth
+1 CHAN
+2 DATE 19 FEB 2020
+3 TIME 22:20:12
+0 @I0102@ INDI
+1 NAME Bernard /Buckerier/
+2 TYPE birth
+2 GIVN Bernard
+2 SURN Buckerier
+1 SEX M
+1 BIRT
+2 DATE 18 DEC 1812
+2 PLAC Sleidinge
+1 FAMC @F0021@
+2 PEDI birth
+1 CHAN
+2 DATE 19 FEB 2020
+3 TIME 22:09:09
+0 @I0103@ INDI
+1 NAME Rosalie /Buckerier/
+2 TYPE birth
+2 GIVN Rosalie
+2 SURN Buckerier
+1 SEX F
+1 BIRT
+2 DATE 1815
+2 PLAC Sleidinge
+1 DEAT
+2 DATE 2 JUN 1816
+2 PLAC Sleidinge
+1 FAMC @F0021@
+2 PEDI birth
+1 CHAN
+2 DATE 19 FEB 2020
+3 TIME 22:16:10
+0 @I0104@ INDI
+1 NAME Sophie /Buckerier/
+2 TYPE birth
+2 GIVN Sophie
+2 SURN Buckerier
+1 SEX F
+1 BIRT
+2 DATE 13 NOV 1807
+2 PLAC Sleidinge
+1 FAMC @F0021@
+2 PEDI birth
+1 CHAN
+2 DATE 19 FEB 2020
+3 TIME 22:32:02
+0 @I0105@ INDI
+1 NAME Francois /Buckerier/
+2 TYPE birth
+2 GIVN Francois
+2 SURN Buckerier
+1 SEX M
+1 BIRT
+2 DATE 13 NOV 1807
+2 PLAC Sleidinge
+1 DEAT
+2 DATE 14 APR 1889
+2 PLAC Sleidinge
+1 FAMC @F0021@
+2 PEDI birth
+1 CHAN
+2 DATE 19 FEB 2020
+3 TIME 22:36:49
+0 @I0106@ INDI
+1 NAME Petrus /Grootaert/
+2 TYPE birth
+2 GIVN Petrus
+2 SURN Grootaert
+1 SEX M
+1 BIRT
+2 DATE 19 APR 1869
+2 PLAC Evergem
+1 DEAT
+2 DATE 7 JAN 1950
+2 PLAC Evergem
+1 FAMC @F0050@
+2 PEDI birth
+1 FAMS @F0049@
+1 CHAN
+2 DATE 7 MAR 2020
+3 TIME 09:02:44
+0 @I0107@ INDI
+1 NAME Josephus /Grootaert/
+2 TYPE birth
+2 GIVN Josephus
+2 SURN Grootaert
+1 SEX M
+1 BIRT
+2 DATE 1831
+1 FAMS @F0050@
+1 CHAN
+2 DATE 20 FEB 2020
+3 TIME 22:05:45
+0 @I0108@ INDI
+1 NAME Maria Ludovica /Lippens/
+2 TYPE birth
+2 GIVN Maria Ludovica
+2 SURN Lippens
+1 SEX F
+1 BIRT
+2 DATE 1843
+1 FAMS @F0050@
+1 CHAN
+2 DATE 20 FEB 2020
+3 TIME 22:05:45
+0 @I0109@ INDI
+1 NAME Elisa /De Vreese/
+2 TYPE birth
+2 GIVN Elisa
+2 SURN De Vreese
+1 SEX F
+1 BIRT
+2 DATE 27 JUL 1899
+2 PLAC Evergem
+1 FAMS @F0062@
+1 CHAN
+2 DATE 13 MAR 2020
+3 TIME 21:33:25
+0 @I0110@ INDI
+1 NAME Ghislaine /Colombeen/
+2 TYPE birth
+2 GIVN Ghislaine
+2 SURN Colombeen
+1 SEX F
+1 BIRT
+2 DATE 21 MAY 1932
+2 PLAC Evergem
+1 DEAT
+2 DATE 9 MAR 2020
+2 PLAC Evergem
+1 FAMC @F0062@
+2 PEDI birth
+1 FAMS @F0063@
+1 CHAN
+2 DATE 14 MAR 2020
+3 TIME 09:38:21
+0 @I0111@ INDI
+1 NAME Eric /Vanclooster/
+2 TYPE birth
+2 GIVN Eric
+2 SURN Vanclooster
+1 SEX M
+1 BIRT
+2 DATE 8 JAN 1962
+2 PLAC Gent
+1 FAMS @F0051@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 09:24:02
+0 @I0112@ INDI
+1 NAME Simon /Vanclooster/
+2 TYPE birth
+2 GIVN Simon
+2 SURN Vanclooster
+1 SEX M
+1 BIRT
+2 DATE 23 MAR 1993
+2 PLAC Gent
+1 FAMC @F0051@
+2 PEDI birth
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 09:25:20
+0 @I0113@ INDI
+1 NAME Esther /Vanclooster/
+2 TYPE birth
+2 GIVN Esther
+2 SURN Vanclooster
+1 SEX F
+1 BIRT
+2 DATE 6 FEB 1997
+2 PLAC Gent
+1 FAMC @F0051@
+2 PEDI birth
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 09:26:59
+0 @I0114@ INDI
+1 NAME Gilbert /Van Driessche/
+2 TYPE birth
+2 GIVN Gilbert
+2 SURN Van Driessche
+1 SEX M
+1 FAMS @F0063@
+1 CHAN
+2 DATE 14 MAR 2020
+3 TIME 09:38:21
+0 @I0115@ INDI
+1 NAME Julius /Stock/
+2 TYPE birth
+2 GIVN Julius
+2 SURN Stock
+1 SEX M
+1 BIRT
+2 DATE 2 MAR 1881
+2 PLAC Wyngene
+1 FAMC @F0053@
+2 PEDI birth
+1 FAMS @F0052@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 13:32:04
+0 @I0116@ INDI
+1 NAME Augustus /Stock/
+2 TYPE birth
+2 GIVN Augustus
+2 SURN Stock
+1 SEX M
+1 BIRT
+2 DATE 1819
+1 FAMS @F0053@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 13:32:04
+0 @I0117@ INDI
+1 NAME Maria Franciska /Vereecke/
+2 TYPE birth
+2 GIVN Maria Franciska
+2 SURN Vereecke
+1 SEX F
+1 BIRT
+2 DATE 1816
+1 FAMS @F0053@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 13:32:04
+0 @I0118@ INDI
+1 NAME Martine /Van Driessche/
+2 TYPE birth
+2 GIVN Martine
+2 SURN Van Driessche
+1 SEX F
+1 FAMC @F0063@
+2 PEDI birth
+1 CHAN
+2 DATE 14 MAR 2020
+3 TIME 09:39:31
+0 @I0119@ INDI
+1 NAME Clement Stephanus /Seyssens/
+2 TYPE birth
+2 GIVN Clement Stephanus
+2 SURN Seyssens
+1 SEX M
+1 BIRT
+2 DATE 8 AUG 1879
+2 PLAC Sleidinge
+1 DEAT
+2 DATE 6 JAN 1949
+2 PLAC Evergem
+1 FAMC @F0055@
+2 PEDI birth
+1 FAMS @F0054@
+1 CHAN
+2 DATE 1 MAR 2020
+3 TIME 22:36:30
+0 @I0120@ INDI
+1 NAME Karel Lodewijk /Seyssens/
+2 TYPE birth
+2 GIVN Karel Lodewijk
+2 SURN Seyssens
+1 SEX M
+1 BIRT
+2 DATE 1830
+2 PLAC Sleidinge
+1 FAMS @F0055@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 23:02:09
+0 @I0121@ INDI
+1 NAME Coleta /Slock/
+2 TYPE birth
+2 GIVN Coleta
+2 SURN Slock
+1 SEX F
+1 DEAT
+2 DATE 5 JUL 1882
+2 PLAC Sleidinge
+1 FAMS @F0055@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 23:02:09
+0 @I0122@ INDI
+1 NAME Alphonse Francies Joseph /De Kesel/
+2 TYPE birth
+2 GIVN Alphonse Francies Joseph
+2 SURN De Kesel
+1 SEX M
+1 BIRT
+2 DATE 13 OCT 1884
+2 PLAC Lovendegem
+1 FAMS @F0056@
+1 CHAN
+2 DATE 3 MAR 2020
+3 TIME 22:05:32
+0 @I0123@ INDI
+1 NAME Lea /De Kesel/
+2 TYPE birth
+2 GIVN Lea
+2 SURN De Kesel
+1 SEX F
+1 FAMC @F0056@
+2 PEDI birth
+1 CHAN
+2 DATE 3 MAR 2020
+3 TIME 22:13:59
+0 @I0124@ INDI
+1 NAME Julius /Vereecke/
+2 TYPE birth
+2 GIVN Julius
+2 SURN Vereecke
+1 SEX M
+1 BIRT
+2 DATE 19 OCT 1886
+2 PLAC Zomergem
+1 FAMC @F0058@
+2 PEDI birth
+1 FAMS @F0057@
+1 CHAN
+2 DATE 4 MAR 2020
+3 TIME 22:18:55
+0 @I0125@ INDI
+1 NAME Charles Louis /Vereecke/
+2 TYPE birth
+2 GIVN Charles Louis
+2 SURN Vereecke
+1 SEX M
+1 FAMS @F0058@
+1 CHAN
+2 DATE 4 MAR 2020
+3 TIME 22:29:19
+0 @I0126@ INDI
+1 NAME Stephanie /De Bouvre/
+2 TYPE birth
+2 GIVN Stephanie
+2 SURN De Bouvre
+1 SEX F
+1 BIRT
+2 DATE 24 OCT 1868
+2 PLAC Zomergem
+1 DEAT
+2 DATE 7 JAN 1939
+2 PLAC Evergem
+1 FAMS @F0058@
+1 CHAN
+2 DATE 4 MAR 2020
+3 TIME 22:40:47
+0 @I0127@ INDI
+1 NAME Paula /Van Hoorebeke/
+2 TYPE birth
+2 GIVN Paula
+2 SURN Van Hoorebeke
+1 SEX F
+1 FAMS @F0059@
+1 CHAN
+2 DATE 28 AUG 2020
+3 TIME 22:40:57
+0 @I0128@ INDI
+1 NAME Patrick /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Patrick
+2 SURN De Vleeschauwer
+1 SEX M
+1 BIRT
+2 DATE 1960
+2 PLAC Sleidinge
+1 FAMC @F0059@
+2 PEDI birth
+1 FAMS @F0060@
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 20:37:58
+0 @I0129@ INDI
+1 NAME Nicole /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Nicole
+2 SURN De Vleeschauwer
+1 SEX F
+1 BIRT
+2 DATE 1963
+1 FAMC @F0059@
+2 PEDI birth
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 20:35:28
+0 @I0130@ INDI
+1 NAME Roxanne /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Roxanne
+2 SURN De Vleeschauwer
+1 SEX F
+1 BIRT
+2 DATE 22 MAY 1966
+2 PLAC Gent
+1 FAMC @F0059@
+2 PEDI birth
+1 FAMS @F0061@
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 21:29:47
+0 @I0131@ INDI
+1 NAME Els /Verheye/
+2 TYPE birth
+2 GIVN Els
+2 SURN Verheye
+1 SEX F
+1 FAMS @F0060@
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 20:37:58
+0 @I0132@ INDI
+1 NAME Arne /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Arne
+2 SURN De Vleeschauwer
+1 SEX M
+1 FAMC @F0060@
+2 PEDI birth
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 20:38:37
+0 @I0133@ INDI
+1 NAME Teresa /De Vleeschauwer/
+2 TYPE birth
+2 GIVN Teresa
+2 SURN De Vleeschauwer
+1 SEX F
+1 FAMC @F0060@
+2 PEDI birth
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 20:40:20
+0 @I0134@ INDI
+1 NAME Peter /Henderickx/
+2 TYPE birth
+2 GIVN Peter
+2 SURN Henderickx
+1 SEX M
+1 FAMS @F0061@
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 21:29:47
+0 @I0135@ INDI
+1 NAME Jeroen /Henderickx/
+2 TYPE birth
+2 GIVN Jeroen
+2 SURN Henderickx
+1 SEX M
+1 FAMC @F0061@
+2 PEDI birth
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 21:30:01
+0 @I0136@ INDI
+1 NAME stijn /Henderickx/
+2 TYPE birth
+2 GIVN stijn
+2 SURN Henderickx
+1 SEX M
+1 FAMC @F0061@
+2 PEDI birth
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 21:30:49
+0 @I0137@ INDI
+1 NAME stef /Henderickx/
+2 TYPE birth
+2 GIVN stef
+2 SURN Henderickx
+1 SEX M
+1 FAMC @F0061@
+2 PEDI birth
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 21:30:59
+0 @I0138@ INDI
+1 NAME Margot /Van Driessche/
+2 TYPE birth
+2 GIVN Margot
+2 SURN Van Driessche
+1 SEX F
+1 FAMC @F0063@
+2 PEDI birth
+1 CHAN
+2 DATE 14 MAR 2020
+3 TIME 09:39:43
+0 @I0139@ INDI
+1 NAME Mario /Van Driessche/
+2 TYPE birth
+2 GIVN Mario
+2 SURN Van Driessche
+1 SEX M
+1 FAMC @F0063@
+2 PEDI birth
+1 CHAN
+2 DATE 14 MAR 2020
+3 TIME 09:39:53
+0 @I0140@ INDI
+1 NAME Ann /Van Driessche/
+2 TYPE birth
+2 GIVN Ann
+2 SURN Van Driessche
+1 SEX F
+1 FAMC @F0063@
+2 PEDI birth
+1 CHAN
+2 DATE 14 MAR 2020
+3 TIME 09:40:03
+0 @I0141@ INDI
+1 NAME Maurits Leo /Van Huffel/
+2 TYPE birth
+2 GIVN Maurits Leo
+2 SURN Van Huffel
+1 SEX M
+1 BIRT
+2 DATE 30 AUG 1900
+2 PLAC Lovendegem
+1 DEAT
+2 DATE 14 NOV 1928
+2 PLAC Evergem
+1 FAMC @F0065@
+2 PEDI birth
+1 FAMS @F0064@
+1 CHAN
+2 DATE 20 MAR 2020
+3 TIME 22:33:45
+0 @I0142@ INDI
+1 NAME Theofiel /Van Huffel/
+2 TYPE birth
+2 GIVN Theofiel
+2 SURN Van Huffel
+1 SEX M
+1 FAMS @F0065@
+1 CHAN
+2 DATE 20 MAR 2020
+3 TIME 22:18:06
+0 @I0143@ INDI
+1 NAME Emma Maria /Creëlle/
+2 TYPE birth
+2 GIVN Emma Maria
+2 SURN Creëlle
+1 SEX F
+1 FAMS @F0065@
+1 CHAN
+2 DATE 20 MAR 2020
+3 TIME 22:22:35
+0 @I0144@ INDI
+1 NAME Renaat August /Van Huffel/
+2 TYPE birth
+2 GIVN Renaat August
+2 SURN Van Huffel
+1 SEX M
+1 BIRT
+2 DATE 22 AUG 1908
+2 PLAC Lovendegem
+1 FAMC @F0065@
+2 PEDI birth
+1 FAMS @F0066@
+1 CHAN
+2 DATE 20 MAR 2020
+3 TIME 22:32:51
+0 @I0145@ INDI
+1 NAME Maria Sulima /De Pauw/
+2 TYPE birth
+2 GIVN Maria Sulima
+2 SURN De Pauw
+1 SEX F
+1 BIRT
+2 DATE 5 FEB 1891
+2 PLAC Sleidinge
+1 FAMC @F0068@
+2 PEDI birth
+1 FAMS @F0067@
+1 CHAN
+2 DATE 21 MAR 2020
+3 TIME 22:47:45
+0 @I0146@ INDI
+1 NAME Andre /Colombeen/
+2 TYPE birth
+2 GIVN Andre
+2 SURN Colombeen
+1 SEX M
+1 BIRT
+2 DATE 19 JAN 1911
+2 PLAC Sleidinge
+1 FAMC @F0067@
+2 PEDI birth
+1 CHAN
+2 DATE 21 MAR 2020
+3 TIME 22:45:35
+0 @I0147@ INDI
+1 NAME Ivo /De Pauw/
+2 TYPE birth
+2 GIVN Ivo
+2 SURN De Pauw
+1 SEX M
+1 BIRT
+2 DATE 1848
+1 FAMS @F0068@
+1 CHAN
+2 DATE 21 MAR 2020
+3 TIME 22:47:45
+0 @I0148@ INDI
+1 NAME Pelagia /Vermeire/
+2 TYPE birth
+2 GIVN Pelagia
+2 SURN Vermeire
+1 SEX F
+1 BIRT
+2 DATE 1850
+1 FAMS @F0068@
+1 CHAN
+2 DATE 21 MAR 2020
+3 TIME 22:47:45
+0 @I0149@ INDI
+1 NAME Kamiel /De Paepe/
+2 TYPE birth
+2 GIVN Kamiel
+2 SURN De Paepe
+1 SEX M
+1 FAMS @F0070@
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 16:26:40
+0 @I0150@ INDI
+1 NAME Maria /Van Heucke/
+2 TYPE birth
+2 GIVN Maria
+2 SURN Van Heucke
+1 SEX F
+1 FAMS @F0070@
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 16:26:40
+0 @I0151@ INDI
+1 NAME Julien /Van Durme/
+2 TYPE birth
+2 GIVN Julien
+2 SURN Van Durme
+1 SEX M
+1 FAMS @F0071@
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 19:36:46
+0 @I0152@ INDI
+1 NAME Hans /Van Durme/
+2 TYPE birth
+2 GIVN Hans
+2 SURN Van Durme
+1 SEX M
+1 FAMC @F0071@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 19:37:03
+0 @I0153@ INDI
+1 NAME Julien /Van Durme/
+2 TYPE birth
+2 GIVN Julien
+2 SURN Van Durme
+1 SEX M
+1 FAMS @F0072@
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 22:19:01
+0 @I0154@ INDI
+1 NAME Hans /Van Durme/
+2 TYPE birth
+2 GIVN Hans
+2 SURN Van Durme
+1 SEX M
+1 FAMC @F0072@
+2 PEDI birth
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 22:19:20
+0 @I0158@ INDI
+1 NAME Albert /Van Huffel/
+2 TYPE birth
+2 GIVN Albert
+2 SURN Van Huffel
+1 SEX M
+1 BIRT
+2 DATE 13 FEB 1933
+1 DEAT
+2 DATE 17 NOV 2001
+1 FAMC @F0066@
+2 PEDI birth
+1 FAMS @F0073@
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 13:45:20
+0 @I0159@ INDI
+1 NAME Albert /Van Huffel/
+2 TYPE birth
+2 GIVN Albert
+2 SURN Van Huffel
+1 SEX M
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 13:43:48
+0 @I0160@ INDI
+1 NAME Godelieve /Comergo/
+2 TYPE birth
+2 GIVN Godelieve
+2 SURN Comergo
+1 SEX F
+1 FAMS @F0073@
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 13:45:20
+0 @I0161@ INDI
+1 NAME Annie /Van Huffel/
+2 TYPE birth
+2 GIVN Annie
+2 SURN Van Huffel
+1 SEX F
+1 FAMC @F0073@
+2 PEDI birth
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 13:45:20
+0 @I0162@ INDI
+1 NAME Connie /Van Huffel/
+2 TYPE birth
+2 GIVN Connie
+2 SURN Van Huffel
+1 SEX F
+1 FAMC @F0073@
+2 PEDI birth
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 13:45:39
+0 @I0163@ INDI
+1 NAME Hilda /Van Durme/
+2 TYPE birth
+2 GIVN Hilda
+2 SURN Van Durme
+1 SEX F
+1 BIRT
+2 DATE 1915
+1 DEAT
+2 DATE 1999
+1 FAMS @F0074@
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 16:27:51
+0 @I0165@ INDI
+1 NAME Maria /De Meyer/
+2 TYPE birth
+2 GIVN Maria
+2 SURN De Meyer
+1 SEX F
+1 BIRT
+2 DATE EST 1866
+1 FAMS @F0075@
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 22:25:21
+0 @I0166@ INDI
+1 NAME Petrus /Vanderhaegen/
+2 TYPE birth
+2 GIVN Petrus
+2 SURN Vanderhaegen
+1 SEX M
+1 BIRT
+2 DATE 26 MAY 1820
+2 PLAC Drongen
+1 FAMC @F0077@
+2 PEDI birth
+1 FAMS @F0076@
+1 CHAN
+2 DATE 16 SEP 2023
+3 TIME 18:29:23
+0 @I0167@ INDI
+1 NAME Dolphina /Heulen/
+2 TYPE birth
+2 GIVN Dolphina
+2 SURN Heulen
+1 SEX F
+1 BIRT
+2 DATE EST 1820
+1 FAMS @F0076@
+1 CHAN
+2 DATE 30 AUG 2020
+3 TIME 22:17:11
+0 @I0168@ INDI
+1 NAME Franciscus /Vanderhaegen/
+2 TYPE birth
+2 GIVN Franciscus
+2 SURN Vanderhaegen
+1 SEX M
+1 BIRT
+2 DATE EST 1787
+1 EVEN
+2 TYPE Marriage
+2 DATE 22 MAY 1820
+1 FAMS @F0077@
+1 CHAN
+2 DATE 16 SEP 2023
+3 TIME 18:18:59
+0 @I0170@ INDI
+1 NAME Baptiste /De Meyer/
+2 TYPE birth
+2 GIVN Baptiste
+2 SURN De Meyer
+1 SEX M
+1 BIRT
+2 DATE EST 1775
+1 FAMS @F0078@
+1 CHAN
+2 DATE 16 SEP 2023
+3 TIME 17:44:41
+0 @I0171@ INDI
+1 NAME Anna Fransisca /Van de Vennet/
+2 TYPE birth
+2 GIVN Anna Fransisca
+2 SURN Van de Vennet
+1 SEX F
+1 FAMS @F0078@
+1 CHAN
+2 DATE 16 SEP 2023
+3 TIME 17:48:00
+0 @I0172@ INDI
+1 NAME Amelie /De Meyere/
+2 TYPE birth
+2 GIVN Amelie
+2 SURN De Meyere
+1 SEX F
+1 BIRT
+2 DATE EST 1799
+2 PLAC Sint-Martens-Leerne
+1 FAMS @F0077@
+1 CHAN
+2 DATE 17 SEP 2023
+3 TIME 11:10:19
+0 @F0001@ FAM
+1 HUSB @1962/06/01@
+1 WIFE @1981/04/11@
+1 MARR
+2 DATE 18 AUG 2017
+2 PLAC Evergem
+1 CHIL @2018/07/24@
+1 CHAN
+2 DATE 15 JAN 2020
+3 TIME 21:16:42
+0 @F0002@ FAM
+1 HUSB @1930/10/14@
+1 WIFE @1932/03/06@
+1 MARR
+2 DATE 11 AUG 1956
+1 CHIL @1962/06/01@
+1 CHIL @1966/07/07@
+1 CHAN
+2 DATE 23 JAN 2020
+3 TIME 22:09:20
+0 @F0003@ FAM
+1 HUSB @I0002@
+1 WIFE @I0003@
+1 CHIL @I0064@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 22:41:39
+0 @F0004@ FAM
+1 HUSB @1945/04/15@
+1 WIFE @I0004@
+1 CHIL @1981/04/11@
+1 CHAN
+2 DATE 23 JAN 2020
+3 TIME 22:09:29
+0 @F0005@ FAM
+1 HUSB @1890/10/22@
+1 WIFE @1898/06/05@
+1 MARR
+2 DATE 12 JUN 1924
+2 PLAC Evergem
+1 CHIL @1930/10/14@
+1 CHIL @I0025@
+1 CHAN
+2 DATE 19 JAN 2020
+3 TIME 21:03:37
+0 @F0006@ FAM
+1 HUSB @1855/01/30@
+1 WIFE @1858/11/17@
+1 MARR
+2 DATE 11 DEC 1889
+2 PLAC Outer
+1 CHIL @1890/10/22@
+1 CHIL @I0027@
+1 CHIL @I0028@
+1 CHIL @I0029@
+1 CHIL @I0030@
+1 CHAN
+2 DATE 12 FEB 2020
+3 TIME 22:31:37
+0 @F0007@ FAM
+1 HUSB @I0010@
+1 WIFE @I0011@
+1 CHIL @1945/04/15@
+1 CHAN
+2 DATE 16 JAN 2020
+3 TIME 21:28:00
+0 @F0008@ FAM
+1 HUSB @I0012@
+1 WIFE @I0013@
+1 CHIL @I0004@
+1 CHAN
+2 DATE 16 JAN 2020
+3 TIME 21:31:40
+0 @F0009@ FAM
+1 HUSB @1896/12/17@
+1 WIFE @1895/02/06@
+1 CHIL @1932/03/06@
+1 CHAN
+2 DATE 17 JAN 2020
+3 TIME 20:02:55
+0 @F0010@ FAM
+1 HUSB @I0016@
+1 WIFE @I0015@
+1 CHIL @I0013@
+1 CHAN
+2 DATE 17 JAN 2020
+3 TIME 20:06:31
+0 @F0011@ FAM
+1 HUSB @I0005@
+1 WIFE @I0006@
+1 CHIL @1776/09/25@
+1 CHIL @I0009@
+1 CHIL @I0083@
+1 CHIL @I0085@
+1 CHAN
+2 DATE 16 FEB 2020
+3 TIME 22:00:20
+0 @F0013@ FAM
+1 HUSB @1842/09/16@
+1 WIFE @1849/04/15@
+1 MARR
+2 DATE 2 AUG 1877
+1 CHIL @I0049@
+1 CHIL @I0051@
+1 CHIL @I0052@
+1 CHIL @1884/06/13@
+1 CHIL @1885/04/19@
+1 CHIL @1898/06/05@
+1 CHAN
+2 DATE 28 FEB 2020
+3 TIME 23:17:23
+0 @F0014@ FAM
+1 HUSB @1813/12/01@
+1 WIFE @1816/11/15@
+1 MARR
+2 DATE 18 NOV 1841
+2 PLAC Evergem
+1 CHIL @1842/09/16@
+1 CHIL @I0041@
+1 CHAN
+2 DATE 25 JAN 2020
+3 TIME 22:33:53
+0 @F0015@ FAM
+1 HUSB @1804/03/15@
+1 WIFE @1808/09/13@
+1 MARR
+2 DATE 24 JUN 1829
+2 PLAC Sleidinge
+1 CHIL @1849/04/15@
+1 CHIL @I0067@
+1 CHIL @I0068@
+1 CHIL @I0069@
+1 CHIL @I0070@
+1 CHIL @I0071@
+1 CHIL @I0072@
+1 CHIL @I0073@
+1 CHIL @I0074@
+1 CHIL @I0075@
+1 CHIL @I0076@
+1 CHIL @I0077@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:06
+0 @F0016@ FAM
+1 HUSB @1864/06/29@
+1 WIFE @1862/09/06@
+1 MARR
+2 DATE 11 SEP 1889
+2 PLAC Evergem
+1 CHIL @1891/04/02@
+1 CHIL @1892/10/16@
+1 CHIL @1893/11/11@
+1 CHIL @1896/12/17@
+1 CHIL @1898/08/19@
+1 CHIL @1900/08/18@
+1 CHIL @1901/11/05a@
+1 CHIL @1901/11/05b@
+1 CHIL @1903/02/05@
+1 CHAN
+2 DATE 13 MAR 2020
+3 TIME 21:52:28
+0 @F0017@ FAM
+1 HUSB @1830/04/11@
+1 WIFE @1833/07/11@
+1 MARR
+2 DATE 16 AUG 1865
+2 PLAC Evergem
+1 CHIL @1864/06/29@
+1 CHIL @I0047@
+1 CHIL @I0058@
+1 CHAN
+2 DATE 31 JAN 2020
+3 TIME 22:38:32
+0 @F0019@ FAM
+1 HUSB @1828/12/08@
+1 WIFE @1834/03/27@
+1 MARR
+2 DATE 19 FEB 1862
+2 PLAC Evergem
+1 CHIL @1862/09/06@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:45:28
+0 @F0021@ FAM
+1 HUSB @1779/03/09@
+1 WIFE @1776/09/25@
+1 MARR
+2 DATE 4 MAY 1807
+2 PLAC Sleidinge
+1 CHIL @1816/11/15@
+1 CHIL @I0100@
+1 CHIL @I0101@
+1 CHIL @I0102@
+1 CHIL @I0103@
+1 CHIL @I0104@
+1 CHIL @I0105@
+1 CHAN
+2 DATE 19 FEB 2020
+3 TIME 22:32:37
+0 @F0022@ FAM
+1 HUSB @1775/08/14@
+1 WIFE @1776/06/05@
+1 MARR
+2 DATE 26 APR 1803
+2 PLAC Evergem
+1 CHIL @1813/12/01@
+1 CHIL @I0042@
+1 CHAN
+2 DATE 7 FEB 2020
+3 TIME 22:58:55
+0 @F0023@ FAM
+1 HUSB @I0043@
+1 WIFE @I0044@
+1 CHIL @1830/04/11@
+1 CHAN
+2 DATE 27 JAN 2020
+3 TIME 21:35:17
+0 @F0024@ FAM
+1 HUSB @1802/05/09@
+1 WIFE @1798/04/19@
+1 MARR
+2 DATE 11 OCT 1832
+2 PLAC Evergem
+1 CHIL @1833/07/11@
+1 CHIL @I0095@
+1 CHAN
+2 DATE 17 FEB 2020
+3 TIME 22:12:15
+0 @F0025@ FAM
+1 HUSB @1787/07/30@
+1 WIFE @1787/08/15@
+1 MARR
+2 DATE 21 JUL 1813
+2 PLAC Evergem
+1 CHIL @1828/12/08@
+1 CHIL @I0096@
+1 CHIL @I0097@
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:33:32
+0 @F0026@ FAM
+1 HUSB @I0055@
+1 WIFE @I0056@
+1 CHIL @1834/03/27@
+1 CHAN
+2 DATE 31 JAN 2020
+3 TIME 22:24:52
+0 @F0029@ FAM
+1 HUSB @I0063@
+1 WIFE @I0064@
+1 MARR
+2 DATE 24 APR 1808
+2 PLAC Sleidinge
+1 CHIL @1808/09/13@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 22:35:00
+0 @F0030@ FAM
+1 HUSB @1780/06/18@
+1 WIFE @1774/11/23@
+1 MARR
+2 DATE 8 JUN 1803
+2 PLAC Evergem
+1 CHIL @1804/03/15@
+1 CHAN
+2 DATE 8 FEB 2020
+3 TIME 20:21:07
+0 @F0031@ FAM
+1 HUSB @I0078@
+1 WIFE @I0079@
+1 CHIL @1775/08/14@
+1 CHAN
+2 DATE 7 FEB 2020
+3 TIME 23:02:40
+0 @F0032@ FAM
+1 HUSB @I0080@
+1 WIFE @I0081@
+1 CHIL @1776/06/05@
+1 CHIL @I0084@
+1 CHAN
+2 DATE 9 FEB 2020
+3 TIME 20:49:08
+0 @F0033@ FAM
+1 HUSB @I0007@
+1 WIFE @I0008@
+1 CHIL @1779/03/09@
+1 CHAN
+2 DATE 10 FEB 2020
+3 TIME 22:07:39
+0 @F0034@ FAM
+1 HUSB @I0014@
+1 WIFE @I0017@
+1 CHIL @1787/07/30@
+1 CHIL @1802/05/09@
+1 CHIL @I0098@
+1 CHIL @I0099@
+1 CHAN
+2 DATE 18 FEB 2020
+3 TIME 21:50:30
+0 @F0035@ FAM
+1 HUSB @I0086@
+1 WIFE @I0087@
+1 CHIL @1780/06/18@
+1 CHAN
+2 DATE 8 FEB 2020
+3 TIME 21:13:28
+0 @F0036@ FAM
+1 HUSB @I0088@
+1 WIFE @I0089@
+1 CHIL @1774/11/23@
+1 CHAN
+2 DATE 8 FEB 2020
+3 TIME 21:19:41
+0 @F0037@ FAM
+1 HUSB @I0018@
+1 WIFE @I0019@
+1 CHIL @1787/08/15@
+1 CHAN
+2 DATE 11 FEB 2020
+3 TIME 22:28:19
+0 @F0038@ FAM
+1 HUSB @I0020@
+1 WIFE @I0021@
+1 CHIL @1798/04/19@
+1 CHAN
+2 DATE 11 FEB 2020
+3 TIME 22:34:52
+0 @F0039@ FAM
+1 HUSB @I0022@
+1 WIFE @I0023@
+1 CHIL @1855/01/30@
+1 CHAN
+2 DATE 12 FEB 2020
+3 TIME 22:19:13
+0 @F0040@ FAM
+1 HUSB @I0024@
+1 WIFE @I0026@
+1 MARR
+2 DATE 20 SEP 1849
+2 PLAC Sint-Antelinks
+1 CHIL @1858/11/17@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 15:44:51
+0 @F0042@ FAM
+1 HUSB @I0039@
+1 WIFE @I0040@
+1 MARR
+2 DATE 4 DEC 1813
+2 PLAC Outer
+1 CHIL @I0024@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 15:54:11
+0 @F0043@ FAM
+1 HUSB @I0045@
+1 WIFE @I0046@
+1 MARR
+2 DATE 17 MAY 1785
+1 CHIL @I0039@
+1 CHIL @I0066@
+1 CHIL @I0082@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:17:02
+0 @F0044@ FAM
+1 HUSB @I0053@
+1 WIFE @I0054@
+1 CHIL @I0040@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:05:46
+0 @F0045@ FAM
+1 HUSB @I0057@
+1 WIFE @I0065@
+1 MARR
+2 DATE 24 JAN 1751
+2 PLAC Ninove
+1 CHIL @I0045@
+1 CHAN
+2 DATE 15 FEB 2020
+3 TIME 20:44:55
+0 @F0046@ FAM
+1 HUSB @I0090@
+1 WIFE @1776/06/05@
+1 MARR
+2 DATE 1823
+1 CHAN
+2 DATE 16 FEB 2020
+3 TIME 22:31:12
+0 @F0047@ FAM
+1 HUSB @I0091@
+1 WIFE @I0092@
+1 CHIL @I0014@
+1 CHAN
+2 DATE 17 FEB 2020
+3 TIME 21:55:57
+0 @F0048@ FAM
+1 HUSB @I0093@
+1 WIFE @I0094@
+1 CHIL @I0017@
+1 CHAN
+2 DATE 17 FEB 2020
+3 TIME 22:02:11
+0 @F0049@ FAM
+1 HUSB @I0106@
+1 WIFE @I0049@
+1 MARR
+2 DATE 28 JAN 1903
+2 PLAC Evergem
+1 CHIL @1901/06/27@
+1 CHIL @1903/06/12@
+1 CHIL @1906/04/08@
+1 CHIL @1908/04/19@
+1 CHIL @1910/07/27@
+1 CHIL @1911/09/25@
+1 CHIL @1915/07/31@
+1 CHIL @1917/06/02@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 22:55:55
+0 @F0050@ FAM
+1 HUSB @I0107@
+1 WIFE @I0108@
+1 CHIL @I0106@
+1 CHAN
+2 DATE 20 FEB 2020
+3 TIME 22:05:45
+0 @F0051@ FAM
+1 HUSB @I0111@
+1 WIFE @1966/07/07@
+1 CHIL @I0112@
+1 CHIL @I0113@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 09:26:59
+0 @F0052@ FAM
+1 HUSB @I0115@
+1 WIFE @I0051@
+1 MARR
+2 DATE 15 FEB 1905
+1 CHIL @1901/03/18@
+1 CHIL @1906/01/20@
+1 CHIL @1907/07/24@
+1 CHIL @1910/10/08@
+1 CHIL @1914/07/18@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 22:41:55
+0 @F0053@ FAM
+1 HUSB @I0116@
+1 WIFE @I0117@
+1 CHIL @I0115@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 13:32:04
+0 @F0054@ FAM
+1 HUSB @I0119@
+1 WIFE @I0052@
+1 MARR
+2 DATE 6 AUG 1902
+2 PLAC Evergem
+1 CHIL @1903/03/27@
+1 CHIL @1904/06/27@
+1 CHIL @1906/04/13@
+1 CHIL @1915/01/18@
+1 CHAN
+2 DATE 1 MAR 2020
+3 TIME 22:16:06
+0 @F0055@ FAM
+1 HUSB @I0120@
+1 WIFE @I0121@
+1 CHIL @I0119@
+1 CHAN
+2 DATE 29 FEB 2020
+3 TIME 23:02:09
+0 @F0056@ FAM
+1 HUSB @I0122@
+1 WIFE @1884/06/13@
+1 MARR
+2 DATE 5 JAN 1910
+2 PLAC Evergem
+1 CHIL @1913/10/24@
+1 CHIL @I0123@
+1 CHAN
+2 DATE 3 MAR 2020
+3 TIME 22:13:59
+0 @F0057@ FAM
+1 HUSB @I0124@
+1 WIFE @1885/04/19@
+1 MARR
+2 DATE 21 MAY 1919
+2 PLAC Evergem
+1 CHAN
+2 DATE 6 MAR 2020
+3 TIME 22:51:22
+0 @F0058@ FAM
+1 HUSB @I0125@
+1 WIFE @I0126@
+1 CHIL @I0124@
+1 CHAN
+2 DATE 4 MAR 2020
+3 TIME 22:18:55
+0 @F0059@ FAM
+1 HUSB @I0025@
+1 WIFE @I0127@
+1 CHIL @I0128@
+1 CHIL @I0129@
+1 CHIL @I0130@
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 20:35:07
+0 @F0060@ FAM
+1 HUSB @I0128@
+1 WIFE @I0131@
+1 CHIL @I0132@
+1 CHIL @I0133@
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 20:40:20
+0 @F0061@ FAM
+1 HUSB @I0134@
+1 WIFE @I0130@
+1 CHIL @I0135@
+1 CHIL @I0136@
+1 CHIL @I0137@
+1 CHAN
+2 DATE 9 MAR 2020
+3 TIME 21:30:59
+0 @F0062@ FAM
+1 HUSB @1898/08/19@
+1 WIFE @I0109@
+1 MARR
+2 DATE 4 MAY 1927
+2 PLAC Evergem
+1 CHIL @I0110@
+1 CHAN
+2 DATE 13 MAR 2020
+3 TIME 21:37:03
+0 @F0063@ FAM
+1 HUSB @I0114@
+1 WIFE @I0110@
+1 CHIL @I0118@
+1 CHIL @I0138@
+1 CHIL @I0139@
+1 CHIL @I0140@
+1 CHAN
+2 DATE 14 MAR 2020
+3 TIME 09:40:03
+0 @F0064@ FAM
+1 HUSB @I0141@
+1 WIFE @1901/06/27@
+1 MARR
+2 DATE 6 FEB 1924
+2 PLAC Evergem
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 13:38:54
+0 @F0065@ FAM
+1 HUSB @I0142@
+1 WIFE @I0143@
+1 CHIL @I0141@
+1 CHIL @I0144@
+1 CHAN
+2 DATE 20 MAR 2020
+3 TIME 22:32:51
+0 @F0066@ FAM
+1 HUSB @I0144@
+1 WIFE @1901/06/27@
+1 CHIL @I0158@
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 13:42:09
+0 @F0067@ FAM
+1 HUSB @1891/04/02@
+1 WIFE @I0145@
+1 CHIL @I0146@
+1 CHAN
+2 DATE 21 MAR 2020
+3 TIME 22:45:35
+0 @F0068@ FAM
+1 HUSB @I0147@
+1 WIFE @I0148@
+1 CHIL @I0145@
+1 CHAN
+2 DATE 21 MAR 2020
+3 TIME 22:47:45
+0 @F0069@ FAM
+1 HUSB @1908/11/06@
+1 WIFE @1910/10/08@
+1 MARR
+2 DATE 8 FEB 1933
+2 PLAC Evergem
+1 CHIL @1937/03/27@
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 16:28:55
+0 @F0070@ FAM
+1 HUSB @I0149@
+1 WIFE @I0150@
+1 CHIL @1908/11/06@
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 16:26:40
+0 @F0071@ FAM
+1 HUSB @I0151@
+1 WIFE @1937/03/27@
+1 CHIL @I0152@
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 19:37:03
+0 @F0072@ FAM
+1 HUSB @I0153@
+1 WIFE @1937/03/27@
+1 CHIL @I0154@
+1 CHAN
+2 DATE 19 APR 2020
+3 TIME 22:19:20
+0 @F0073@ FAM
+1 HUSB @I0158@
+1 WIFE @I0160@
+1 CHIL @I0161@
+1 CHIL @I0162@
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 13:45:39
+0 @F0074@ FAM
+1 HUSB @1913/10/24@
+1 WIFE @I0163@
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 16:28:34
+0 @F0075@ FAM
+1 HUSB @1862/09/10@
+1 WIFE @I0165@
+1 CHIL @1895/02/06@
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 22:25:21
+0 @F0076@ FAM
+1 HUSB @I0166@
+1 WIFE @I0167@
+1 CHIL @1862/09/10@
+1 CHAN
+2 DATE 30 AUG 2020
+3 TIME 22:17:11
+0 @F0077@ FAM
+1 HUSB @I0168@
+1 WIFE @I0172@
+1 CHIL @I0166@
+1 CHAN
+2 DATE 16 SEP 2023
+3 TIME 18:29:23
+0 @F0078@ FAM
+1 HUSB @I0170@
+1 WIFE @I0171@
+1 CHAN
+2 DATE 16 SEP 2023
+3 TIME 18:25:39
+0 @F0200@ FAM
+1 HUSB @I0000@
+1 WIFE @I0001@
+1 CHIL @I0063@
+1 CHAN
+2 DATE 29 AUG 2020
+3 TIME 13:46:44
+0 TRLR
